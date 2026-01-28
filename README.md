@@ -17,7 +17,7 @@ I focus on building reliable, scalable, and observable systems.
 ### 🛠️ Tech Stack
 - **Cloud:** Azure
 - **CI/CD:** Jenkins, Azure DevOps, GitHub Actions
-- **IaC:** Terraform ,Bicep
+- **IaC:** Terraform 
 - **Containers:** Docker, Kubernetes (AKS)
 - **Monitoring:** Grafana, Prometheus
 - **OS & Tools:** Linux, Git, Bash
