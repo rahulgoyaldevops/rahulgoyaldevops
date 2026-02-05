@@ -1,56 +1,73 @@
-## 👋 Hi, I'm Rahul Goyal
+👋 Hi, I’m Rahul Goyal
 
-Senior DevSecOps Engineer with 13+ years of experience in
-DevSecOps, Cloud, and Automation.  
-I focus on building reliable, scalable, and observable systems.
+Senior DevSecOps & Cloud Engineer with 13+ years of experience designing, automating, and operating scalable cloud platforms and production-grade infrastructure.
 
----
+I specialize in cloud-native architecture, platform engineering, and CI/CD automation, with a strong focus on reliability, security, and operational excellence.
 
-### 🧠 What I Do
-- Design and validate cloud infrastructure
-- Automate CI/CD pipelines
-- Work with Kubernetes-based microservices
-- Improve reliability, performance, and release confidence
+🧠 What I Work On
 
----
+Designing and validating cloud infrastructure for production environments
 
-### 🛠️ Tech Stack
-- **Cloud:** Azure
-- **CI/CD:** Jenkins, Azure DevOps, GitHub Actions
-- **IaC:** Terraform 
-- **Containers:** Docker, Kubernetes (AKS)
-- **Monitoring:** Grafana, Prometheus
-- **OS & Tools:** Linux, Git, Bash
+Building end-to-end CI/CD pipelines with security and quality gates
 
----
+Operating Kubernetes-based platforms for containerized workloads
 
-### 📂 DevOps Projects
-- **Azure VM + Nginx Deployment**  
-  Provision VM, configure networking, and deploy a web server.
+Improving system reliability, performance, and release confidence
 
-- **CI/CD Pipeline Automation**  
-  Build → Test → Deploy pipeline using Jenkins/GitHub Actions.
+Driving automation-first and IaC-driven engineering practices
 
-- **Terraform on Azure**  
-  Infrastructure as Code for VMs, VNet, NSG, and Storage.
+🛠️ Core Tech Stack
 
-- **Docker & Kubernetes Basics**  
-  Containerize apps and deploy on Kubernetes.
+Cloud: Azure
 
----
+Containers & Platforms: Kubernetes (AKS), Docker
 
-### 📈 What I Care About
-- Infrastructure reliability
-- Automation over manual work
-- Clear observability (logs, metrics, alerts)
-- Secure and repeatable deployments
+CI/CD: Jenkins, GitHub Actions, Azure DevOps
 
----
+Infrastructure as Code: Terraform
 
-### 🔗 Connect With Me
-- **GitHub:** https://github.com/rahulgoyaldevops
-- **LinkedIn:** https://www.linkedin.com/in/rahulgoyaldevops/
+Observability: Grafana, Prometheus
 
----
+OS & Tooling: Linux, Git, Bash
 
-⭐ _This profile is continuously evolving as I learn and build._
+📂 Selected DevOps & Platform Projects
+🚀 Production-Grade CI/CD Platform
+
+End-to-end CI/CD implementation covering build, test, security checks, and Kubernetes deployment, designed with reusability and scalability in mind.
+
+Focus areas:
+CI/CD design • Pipeline automation • Deployment strategies
+
+☁️ Azure Infrastructure as Code (Terraform)
+
+Modular Terraform-based Azure infrastructure, following enterprise naming, networking, and security patterns.
+
+Focus areas:
+IaC • Reusability • Environment consistency
+
+☸️ Kubernetes Platform Engineering
+
+Kubernetes configurations and patterns for running containerized workloads with emphasis on reliability, observability, and operational best practices.
+
+Focus areas:
+Kubernetes design • Monitoring • Platform stability
+
+📈 Engineering Principles I Care About
+
+Reliability over complexity
+
+Automation over manual operations
+
+Observability by default (metrics, logs, alerts)
+
+Secure, repeatable, and predictable deployments
+
+Clear architecture and operational ownership
+
+🔗 Connect With Me
+
+GitHub: https://github.com/rahulgoyaldevops
+
+LinkedIn: https://www.linkedin.com/in/rahulgoyaldevops
+
+
