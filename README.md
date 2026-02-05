@@ -1,26 +1,26 @@
 👋 Hi, I’m Rahul Goyal
 
-Senior DevSecOps & Cloud Engineer with 13+ years of experience designing, automating, and operating scalable cloud platforms and production-grade infrastructure.
+I’m a Senior DevSecOps & Cloud Engineer with 13+ years of hands-on experience working across cloud infrastructure, CI/CD automation, and platform reliability in real production environments.
 
-I specialize in cloud-native architecture, platform engineering, and CI/CD automation, with a strong focus on reliability, security, and operational excellence.
+Over the years, I’ve spent most of my time designing systems that don’t break easily, automating things that shouldn’t be manual, and helping teams ship changes with more confidence and fewer surprises.
 
-🧠 What I Work On
+🧠** What I Work On**
 
-Designing and validating cloud infrastructure for production environments
+Designing and validating cloud infrastructure that can survive real production load
 
-Building end-to-end CI/CD pipelines with security and quality gates
+Building end-to-end CI/CD pipelines with security and quality checks baked in
 
-Operating Kubernetes-based platforms for containerized workloads
+Running and supporting Kubernetes-based platforms for containerized workloads
 
-Improving system reliability, performance, and release confidence
+Improving reliability, performance, and release confidence through better automation
 
-Driving automation-first and IaC-driven engineering practices
+Pushing teams towards IaC-first and automation-first engineering practices
 
 🛠️ Core Tech Stack
 
-Cloud: Azure
+**Cloud: Azure**
 
-Containers & Platforms: Kubernetes (AKS), Docker
+**Containers & Platforms: Kubernetes (AKS), Docker
 
 CI/CD: Jenkins, GitHub Actions, Azure DevOps
 
@@ -28,46 +28,44 @@ Infrastructure as Code: Terraform
 
 Observability: Grafana, Prometheus
 
-OS & Tooling: Linux, Git, Bash
+OS & Tooling: Linux, Git, Bash**
 
 📂 Selected DevOps & Platform Projects
 🚀 Production-Grade CI/CD Platform
 
-End-to-end CI/CD implementation covering build, test, security checks, and Kubernetes deployment, designed with reusability and scalability in mind.
+An opinionated CI/CD setup covering build, test, security checks, and Kubernetes deployments, structured the way I’ve seen it work best in real teams.
 
 Focus areas:
 CI/CD design • Pipeline automation • Deployment strategies
 
 ☁️ Azure Infrastructure as Code (Terraform)
 
-Modular Terraform-based Azure infrastructure, following enterprise naming, networking, and security patterns.
+Modular Terraform-based Azure infrastructure, shaped around enterprise-friendly naming, networking, and security patterns I’ve used in production.
 
-Focus areas:
-IaC • Reusability • Environment consistency
+**Focus areas:
+IaC • Reusability • Environment consistency**
 
 ☸️ Kubernetes Platform Engineering
 
-Kubernetes configurations and patterns for running containerized workloads with emphasis on reliability, observability, and operational best practices.
+Kubernetes configurations and patterns focused on stability, observability, and day-2 operations, not just getting workloads to run.
 
 Focus areas:
 Kubernetes design • Monitoring • Platform stability
 
-📈 Engineering Principles I Care About
+**📈 Engineering Principles I Care About
 
-Reliability over complexity
+Reliability over cleverness
 
-Automation over manual operations
+Automation over repetitive manual work
 
 Observability by default (metrics, logs, alerts)
 
-Secure, repeatable, and predictable deployments
+Secure and repeatable deployments
 
-Clear architecture and operational ownership
+Clear ownership of platforms and systems**
 
 🔗 Connect With Me
 
 GitHub: https://github.com/rahulgoyaldevops
 
-LinkedIn: https://www.linkedin.com/in/rahulgoyaldevops
-
-
+**LinkedIn: https://www.linkedin.com/in/rahulgoyaldevops**
