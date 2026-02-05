@@ -1,6 +1,6 @@
 ## 👋 Hi, I'm Rahul Goyal
 
-Senior DevSecOps Engineer with 14+ years of experience in
+Senior DevSecOps Engineer with 13+ years of experience in
 DevSecOps, Cloud, and Automation.  
 I focus on building reliable, scalable, and observable systems.
 
