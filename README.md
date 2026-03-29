@@ -1,71 +1,18 @@
-👋 Hi, I’m Rahul Goyal
+# 💫 About Me:
+👋 Hi, I’m Rahul Goyal<br><br>I’m a Senior DevSecOps & Cloud Engineer with 13+ years of hands-on experience working across cloud infrastructure, CI/CD automation, and platform reliability in real production environments.<br><br>Over the years, I’ve spent most of my time designing systems that don’t break easily, automating things that shouldn’t be manual, and helping teams ship changes with more confidence and fewer surprises.<br><br>🧠 What I Work On <br><br>Designing and validating cloud infrastructure that can survive real production load<br><br>Building end-to-end CI/CD pipelines with security and quality checks baked in<br><br>Running and supporting Kubernetes-based platforms for containerized workloads<br><br>Improving reliability, performance, and release confidence through better automation<br><br>Pushing teams towards IaC-first and automation-first engineering practices<br><br>🛠️ Core Tech Stack<br><br>Cloud: Azure<br><br>**Containers & Platforms: Kubernetes (AKS), Docker<br><br>CI/CD: Jenkins, GitHub Actions, Azure DevOps<br><br>Infrastructure as Code: Terraform<br><br>Observability: Grafana, Prometheus<br><br>OS & Tooling: Linux, Git, Bash**<br><br>📂 Selected DevOps & Platform Projects 🚀 Production-Grade CI/CD Platform<br><br>An opinionated CI/CD setup covering build, test, security checks, and Kubernetes deployments, structured the way I’ve seen it work best in real teams.<br><br>Focus areas: CI/CD design • Pipeline automation • Deployment strategies<br><br>☁️ Azure Infrastructure as Code (Terraform)<br><br>Modular Terraform-based Azure infrastructure, shaped around enterprise-friendly naming, networking, and security patterns I’ve used in production.<br><br>Focus areas: IaC • Reusability • Environment consistency<br><br>☸️ Kubernetes Platform Engineering<br><br>Kubernetes configurations and patterns focused on stability, observability, and day-2 operations, not just getting workloads to run.<br><br>Focus areas: Kubernetes design • Monitoring • Platform stability<br><br>**📈 Engineering Principles I Care About<br><br>Reliability over cleverness<br><br>Automation over repetitive manual work<br><br>Observability by default (metrics, logs, alerts)<br><br>Secure and repeatable deployments<br><br>Clear ownership of platforms and systems**<br><br>🔗 Connect With Me<br><br>GitHub: https://github.com/rahulgoyaldevops<br><br>LinkedIn: https://www.linkedin.com/in/rahulgoyaldevops
 
-I’m a Senior DevSecOps & Cloud Engineer with 13+ years of hands-on experience working across cloud infrastructure, CI/CD automation, and platform reliability in real production environments.
 
-Over the years, I’ve spent most of my time designing systems that don’t break easily, automating things that shouldn’t be manual, and helping teams ship changes with more confidence and fewer surprises.
+## 🌐 Socials:
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/rahulgoyaldevops) [![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@https://medium.com/@rahulgec04) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:rahulgoyal.devops@gmail.com) 
 
-🧠** What I Work On**
+# 💻 Tech Stack:
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Bash Script](https://img.shields.io/badge/bash_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white) ![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=for-the-badge&logo=microsoftazure&logoColor=white) ![GitHub Actions](https://img.shields.io/badge/github%20actions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Jira](https://img.shields.io/badge/jira-%230A0FFF.svg?style=for-the-badge&logo=jira&logoColor=white) ![Kubernetes](https://img.shields.io/badge/kubernetes-%23326ce5.svg?style=for-the-badge&logo=kubernetes&logoColor=white) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) ![Grafana](https://img.shields.io/badge/grafana-%23F46800.svg?style=for-the-badge&logo=grafana&logoColor=white) ![SonarQube](https://img.shields.io/badge/SonarQube-black?style=for-the-badge&logo=sonarqube&logoColor=4E9BCD) ![Terraform](https://img.shields.io/badge/terraform-%235835CC.svg?style=for-the-badge&logo=terraform&logoColor=white)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=rahulgoyaldevops&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=rahulgoyaldevops&theme=tokyonight&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=rahulgoyaldevops&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
-Designing and validating cloud infrastructure that can survive real production load
+---
+[![](https://visitcount.itsvg.in/api?id=rahulgoyaldevops&icon=0&color=0)](https://visitcount.itsvg.in)
 
-Building end-to-end CI/CD pipelines with security and quality checks baked in
-
-Running and supporting Kubernetes-based platforms for containerized workloads
-
-Improving reliability, performance, and release confidence through better automation
-
-Pushing teams towards IaC-first and automation-first engineering practices
-
-🛠️ Core Tech Stack
-
-**Cloud: Azure**
-
-**Containers & Platforms: Kubernetes (AKS), Docker
-
-CI/CD: Jenkins, GitHub Actions, Azure DevOps
-
-Infrastructure as Code: Terraform
-
-Observability: Grafana, Prometheus
-
-OS & Tooling: Linux, Git, Bash**
-
-📂 Selected DevOps & Platform Projects
-🚀 Production-Grade CI/CD Platform
-
-An opinionated CI/CD setup covering build, test, security checks, and Kubernetes deployments, structured the way I’ve seen it work best in real teams.
-
-Focus areas:
-CI/CD design • Pipeline automation • Deployment strategies
-
-☁️ Azure Infrastructure as Code (Terraform)
-
-Modular Terraform-based Azure infrastructure, shaped around enterprise-friendly naming, networking, and security patterns I’ve used in production.
-
-**Focus areas:
-IaC • Reusability • Environment consistency**
-
-☸️ Kubernetes Platform Engineering
-
-Kubernetes configurations and patterns focused on stability, observability, and day-2 operations, not just getting workloads to run.
-
-Focus areas:
-Kubernetes design • Monitoring • Platform stability
-
-**📈 Engineering Principles I Care About
-
-Reliability over cleverness
-
-Automation over repetitive manual work
-
-Observability by default (metrics, logs, alerts)
-
-Secure and repeatable deployments
-
-Clear ownership of platforms and systems**
-
-🔗 Connect With Me
-
-GitHub: https://github.com/rahulgoyaldevops
-
-**LinkedIn: https://www.linkedin.com/in/rahulgoyaldevops**
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
