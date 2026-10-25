@@ -1,4 +1,4 @@
-<div align="center">
+﻿<div align="center">
 
 <!-- HEADER WAVE BANNER -->
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:090d16,35:102a45,70:005a9e,100:0078d4&height=220&section=header&text=Rahul%20Goyal&fontSize=48&fontColor=ffffff&animation=fadeIn&fontAlignY=32&desc=Senior%20DevOps%20Engineer%20%7C%2014%2B%20Years%20IT%20(6.5%2B%20Years%20DevOps%20and%20Cloud)&descSize=15&descAlignY=52&descAlign=50" width="100%" />
@@ -37,19 +37,19 @@
 <table>
   <tr>
     <td align="center" width="25%">
-      <h3>⏱️ 14+ Yrs Total IT</h3>
+      <h3>â±ï¸ 14+ Yrs Total IT</h3>
       <sub><b>6.5+ Yrs Cloud & DevOps</b><br/>Systems & Platform Engineering</sub>
     </td>
     <td align="center" width="25%">
-      <h3>🚀 19 Enterprise Apps</h3>
+      <h3>ðŸš€ 19 Enterprise Apps</h3>
       <sub><b>Zero-Downtime Migrations</b><br/>Multi-Subscription Scale</sub>
     </td>
     <td align="center" width="25%">
-      <h3>💰 30%+ FinOps ROI</h3>
+      <h3>ðŸ’° 30%+ FinOps ROI</h3>
       <sub><b>Cloud Cost Reduction</b><br/>Resource & Telemetry Tuning</sub>
     </td>
     <td align="center" width="25%">
-      <h3>🔐 Zero-Trust OIDC</h3>
+      <h3>ðŸ” Zero-Trust OIDC</h3>
       <sub><b>Passwordless Pipelines</b><br/>Automated Drift Detection</sub>
     </td>
   </tr>
@@ -59,7 +59,7 @@
 
 ---
 
-## 💼 Executive Profile
+## ðŸ’¼ Executive Profile
 
 Senior DevOps Engineer with **14+ years of robust enterprise IT background**, including **6.5+ years of specialized hands-on expertise in Microsoft Azure Infrastructure Automation, Kubernetes Platform Engineering, large-scale Cloud Migrations, and DevSecOps**.
 
@@ -71,15 +71,15 @@ Combines the operational discipline, disaster recovery instincts, and networking
 
 ---
 
-## 🏛️ Core Engineering Competencies & Responsibilities
+## ðŸ›ï¸ Core Engineering Competencies & Responsibilities
 
 <details open>
-<summary><b>1. ☁️ Cloud Infrastructure & Enterprise Landing Zones</b></summary>
+<summary><b>1. â˜ï¸ Cloud Infrastructure & Enterprise Landing Zones</b></summary>
 <br/>
 
 - **Cloud Adoption Framework (CAF):** Implementing end-to-end foundation strategy across **Plan, Ready, Adopt, Govern, Secure, and Manage**.
 - **Tenant & Management Group Hierarchy:**
-  - Multi-tier structure: *Root Group ➔ Platform MG (Identity, Connectivity, Management) ➔ Landing Zone MG (Corp/Online, Specialized/SAP) ➔ Sandbox & Decommissioned MGs*.
+  - Multi-tier structure: *Root Group âž” Platform MG (Identity, Connectivity, Management) âž” Landing Zone MG (Corp/Online, Specialized/SAP) âž” Sandbox & Decommissioned MGs*.
   - Subscription boundaries, automated onboarding/offboarding, and enterprise RBAC assignments.
 - **Hub-and-Spoke Networking:**
   - Centralized ingress/egress inspection via Azure Firewall and Network Virtual Appliances (NVAs).
@@ -89,7 +89,7 @@ Combines the operational discipline, disaster recovery instincts, and networking
 </details>
 
 <details open>
-<summary><b>2. ⚡ DevSecOps, CI/CD & Infrastructure as Code (IaC)</b></summary>
+<summary><b>2. âš¡ DevSecOps, CI/CD & Infrastructure as Code (IaC)</b></summary>
 <br/>
 
 - **Terraform Enterprise Standards:**
@@ -104,7 +104,7 @@ Combines the operational discipline, disaster recovery instincts, and networking
 </details>
 
 <details open>
-<summary><b>3. 🔄 Cloud Migration Factory (19 Enterprise Applications)</b></summary>
+<summary><b>3. ðŸ”„ Cloud Migration Factory (19 Enterprise Applications)</b></summary>
 <br/>
 
 - **Migration Factory Methodology:**
@@ -116,7 +116,7 @@ Combines the operational discipline, disaster recovery instincts, and networking
 </details>
 
 <details open>
-<summary><b>4. 🛡️ Security, Governance, FinOps & Resilience</b></summary>
+<summary><b>4. ðŸ›¡ï¸ Security, Governance, FinOps & Resilience</b></summary>
 <br/>
 
 - **Defense-in-Depth Security:**
@@ -133,7 +133,7 @@ Combines the operational discipline, disaster recovery instincts, and networking
 </details>
 
 <details open>
-<summary><b>5. 👥 Technical Leadership & Operational Ownership</b></summary>
+<summary><b>5. ðŸ‘¥ Technical Leadership & Operational Ownership</b></summary>
 <br/>
 
 - **Delivery & Service Ownership:** Leading sprint planning, dependency tracking, acceptance criteria sign-offs, and escalation matrix governance.
@@ -143,7 +143,7 @@ Combines the operational discipline, disaster recovery instincts, and networking
 </details>
 
 <details open>
-<summary><b>6. 🤖 Modern AI-Augmented Engineering</b></summary>
+<summary><b>6. ðŸ¤– Modern AI-Augmented Engineering</b></summary>
 <br/>
 
 - **AIOps & Predictive Monitoring:** Intelligent anomaly detection in telemetry pipelines and AI-assisted root-cause analysis.
@@ -154,24 +154,24 @@ Combines the operational discipline, disaster recovery instincts, and networking
 
 ---
 
-## 📌 Featured Production Engineering Blueprints & Repositories
+## ðŸ“Œ Featured Production Engineering Blueprints & Repositories
 
 <div align="center">
 
 | Repository | Focus Area | Technologies |
 | :--- | :--- | :--- |
-| 🏗️ **[tf-monolithic-landing-zone](https://github.com/rahulgoyaldevops/tf-monolithic-landing-zone)** | Modular Enterprise Azure Landing Zone | `Terraform`, `AzureRM`, `Key Vault`, `Infracost` |
-| 🔄 **[terraform-github-actions](https://github.com/rahulgoyaldevops/terraform-github-actions)** | Passwordless Terraform CI/CD with Azure OIDC | `GitHub Actions`, `Azure OIDC`, `DevSecOps` |
-| 🔒 **[azure-devsecops-pipeline-templates](https://github.com/rahulgoyaldevops/azure-devsecops-pipeline-templates)** | Enterprise Azure DevOps Pipeline Library | `Azure DevOps`, `Checkov`, `TFLint`, `Gitleaks` |
-| 📋 **[cloud-migration-playbook](https://github.com/rahulgoyaldevops/cloud-migration-playbook)** | 19 Enterprise App Migration Factory & 6R Framework | `Migration Checklists`, `Cutover`, `Hypercare` |
-| 💰 **[azure-finops-governance-toolkit](https://github.com/rahulgoyaldevops/azure-finops-governance-toolkit)** | Cost Optimization Scripts & Policy as Code | `PowerShell`, `Azure Policy`, `FinOps Toolkit` |
-| ☸️ **[kubernetes-production-aks](https://github.com/rahulgoyaldevops/kubernetes-production-aks)** | Multi-Zone Production AKS Platform | `Kubernetes`, `AKS`, `Calico CNI`, `ArgoCD` |
+| ðŸ—ï¸ **[tf-monolithic-landing-zone](https://github.com/rahulgoyaldevops/tf-monolithic-landing-zone)** | Modular Enterprise Azure Landing Zone | `Terraform`, `AzureRM`, `Key Vault`, `Infracost` |
+| ðŸ”„ **[terraform-github-actions](https://github.com/rahulgoyaldevops/terraform-github-actions)** | Passwordless Terraform CI/CD with Azure OIDC | `GitHub Actions`, `Azure OIDC`, `DevSecOps` |
+| ðŸ”’ **[azure-devsecops-pipeline-templates](https://github.com/rahulgoyaldevops/azure-devsecops-pipeline-templates)** | Enterprise Azure DevOps Pipeline Library | `Azure DevOps`, `Checkov`, `TFLint`, `Gitleaks` |
+| ðŸ“‹ **[cloud-migration-playbook](https://github.com/rahulgoyaldevops/cloud-migration-playbook)** | 19 Enterprise App Migration Factory & 6R Framework | `Migration Checklists`, `Cutover`, `Hypercare` |
+| ðŸ’° **[azure-finops-governance-toolkit](https://github.com/rahulgoyaldevops/azure-finops-governance-toolkit)** | Cost Optimization Scripts & Policy as Code | `PowerShell`, `Azure Policy`, `FinOps Toolkit` |
+| â˜¸ï¸ **[kubernetes-production-aks](https://github.com/rahulgoyaldevops/kubernetes-production-aks)** | Multi-Zone Production AKS Platform | `Kubernetes`, `AKS`, `Calico CNI`, `ArgoCD` |
 
 </div>
 
 ---
 
-## 🛠️ Technical Arsenal
+## ðŸ› ï¸ Technical Arsenal
 
 <div align="center">
 
@@ -212,11 +212,11 @@ Combines the operational discipline, disaster recovery instincts, and networking
 
 ---
 
-## 📈 Engineering Activity & Metrics
+## ðŸ“ˆ Engineering Activity & Metrics
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=rahulgoyaldevops&show_icons=true&theme=github_dark&hide_border=true&count_private=true&bg_color=0d1117&title_color=0078d4&icon_color=0078d4&text_color=c9d1d9" width="48%" />
+<img src="https://github-readme-stats.vercel.app/api?username=rahulgoyaldevops&show_icons=true&theme=github_dark&hide_border=true&count_private=true&bg_color=0d1117&title_color=0078d4&icon_color=0078d4&text_color=c9d1d9&hide_rank=true&include_all_commits=true" width="48%" />
 &nbsp;
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=rahulgoyaldevops&theme=github-dark-blue&hide_border=true&background=0d1117&stroke=0078d4&ring=0078d4&fire=ff6f00&currStreakLabel=0078d4" width="48%" />
 
@@ -230,7 +230,7 @@ Combines the operational discipline, disaster recovery instincts, and networking
 
 <div align="center">
 
-### 🤝 Let's Connect
+### ðŸ¤ Let's Connect
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rahulgoyaldevops/)
 &nbsp;
