@@ -1,14 +1,14 @@
 <div align="center">
 
-<!-- HEADER WAVE BANNER (NO UNESCAPED AMPERSAND IN DESC TO PREVENT XML PARSE ERROR) -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:090d16,35:102a45,70:005a9e,100:0078d4&height=220&section=header&text=Rahul%20Goyal&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=32&desc=Senior%20DevOps%20and%20Cloud%20Engineer%20%7C%2014%2B%20Years%20Experience&descSize=16&descAlignY=52&descAlign=50" width="100%" />
+<!-- HEADER WAVE BANNER -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:090d16,35:102a45,70:005a9e,100:0078d4&height=220&section=header&text=Rahul%20Goyal&fontSize=48&fontColor=ffffff&animation=fadeIn&fontAlignY=32&desc=Senior%20DevOps%20Engineer%20%7C%2014%2B%20Years%20IT%20(6.5%2B%20Years%20DevOps%20and%20Cloud)&descSize=15&descAlignY=52&descAlign=50" width="100%" />
 
 <br/>
 
-<!-- DYNAMIC TYPING HEADLINE (SINGLE-LINE SEQUENTIAL CYCLING - PROPERLY SIZED) -->
+<!-- DYNAMIC TYPING HEADLINE (HIGH-VALUE POSITIONING) -->
 <p align="center">
   <a href="https://github.com/rahulgoyaldevops">
-    <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=600&size=22&duration=3000&pause=1400&color=0078D4&center=true&vCenter=true&repeat=true&width=720&height=42&lines=Senior+DevOps+and+Cloud+Engineer+%7C+14%2B+Years;Infrastructure+and+Platform+Lead;Automating+Enterprise+Landing+Zones+%7C+DevSecOps;Leading+100%2B+App+Migrations+%7C+FinOps+Governance;Kubernetes+(AKS)+%7C+Policy+as+Code+%7C+Zero-Trust" alt="Typing Headline" />
+    <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=600&size=21&duration=3000&pause=1400&color=0078D4&center=true&vCenter=true&repeat=true&width=740&height=42&lines=Senior+DevOps+Engineer+%7C+14%2B+Yrs+IT+%E2%80%A2+6.5%2B+Yrs+DevOps;Multi-Subscription+Azure+%26+AWS+%7C+Terraform+Landing+Zones;Zero-Downtime+Migration+Factory+%7C+100%2B+Applications;FinOps+Cost+Governance+%7C+Production+Kubernetes+(AKS);Zero-Trust+DevSecOps+Pipelines+with+Passwordless+Azure+OIDC" alt="Typing Headline" />
   </a>
 </p>
 
@@ -18,14 +18,16 @@
     <img src="https://img.shields.io/badge/LinkedIn-Rahul_Goyal-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
   &nbsp;&nbsp;
-  <a href="https://github.com/rahulgoyaldevops?tab=repositories"><img src="https://img.shields.io/badge/GitHub-Projects_&_Code-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
+  <a href="https://github.com/rahulgoyaldevops?tab=repositories">
+    <img src="https://img.shields.io/badge/GitHub-Production_Repositories-181717?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
   &nbsp;&nbsp;
   <a href="https://medium.com/@rahulgec04">
-    <img src="https://img.shields.io/badge/Medium-Articles-12100E?style=for-the-badge&logo=medium&logoColor=white" />
+    <img src="https://img.shields.io/badge/Medium-Technical_Articles-12100E?style=for-the-badge&logo=medium&logoColor=white" />
   </a>
   &nbsp;&nbsp;
   <a href="mailto:rahulgoyal.devops@gmail.com">
-    <img src="https://img.shields.io/badge/Email-Get_In_Touch-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
+    <img src="https://img.shields.io/badge/Email-Direct_Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
 </p>
 
@@ -35,20 +37,20 @@
 <table>
   <tr>
     <td align="center" width="25%">
-      <h3>⏱️ 14+ Years</h3>
-      <sub><b>Enterprise Experience</b><br/>Cloud & Platform Engineering</sub>
+      <h3>⏱️ 14+ Yrs Total IT</h3>
+      <sub><b>6.5+ Yrs Cloud & DevOps</b><br/>Systems & Platform Engineering</sub>
     </td>
     <td align="center" width="25%">
-      <h3>🚀 100+ Workloads</h3>
-      <sub><b>Production Migrations</b><br/>Multi-Subscription Scale</sub>
+      <h3>🚀 100+ Enterprise Apps</h3>
+      <sub><b>Zero-Downtime Migrations</b><br/>Multi-Subscription Scale</sub>
     </td>
     <td align="center" width="25%">
-      <h3>💰 30%+ FinOps</h3>
-      <sub><b>Cloud Cost Reduction</b><br/>Resource Optimization</sub>
+      <h3>💰 30%+ FinOps ROI</h3>
+      <sub><b>Cloud Cost Reduction</b><br/>Resource & Telemetry Tuning</sub>
     </td>
     <td align="center" width="25%">
-      <h3>🔐 Zero-Trust</h3>
-      <sub><b>DevSecOps Pipelines</b><br/>OIDC & Policy as Code</sub>
+      <h3>🔐 Zero-Trust OIDC</h3>
+      <sub><b>Passwordless Pipelines</b><br/>Automated Drift Detection</sub>
     </td>
   </tr>
 </table>
@@ -59,21 +61,23 @@
 
 ## 💼 Executive Profile
 
-Senior DevOps & Cloud Engineer with **14+ years of cross-functional experience** leading cloud infrastructure automation, platform reliability, large-scale migrations, and enterprise DevSecOps. 
+Senior DevOps Engineer with **14+ years of robust enterprise IT background**, including **6.5+ years of specialized hands-on expertise in Cloud Infrastructure Automation, Kubernetes Platform Engineering, large-scale Cloud Migrations, and DevSecOps**.
 
-- **Enterprise Cloud Delivery:** Proven track record leading **100+ application migrations** across Dev, UAT, and Production from on-premises datacenters into governed, multi-subscription Azure and hybrid cloud environments.
-- **Infrastructure as Code (IaC) & Platform Foundations:** Hands-on specialist in modular **Terraform Landing Zones**, Azure Cloud Adoption Framework (CAF), Hub-and-Spoke networking, and policy-driven compliance.
-- **Technical Leadership & Ownership:** Extensive experience driving vendor SOW evaluations, technical RFP proposals, RACI transition frameworks, engineering review boards, and upskilling engineering teams.
+Combines the operational discipline, disaster recovery instincts, and networking depth of a 14-year systems veteran with modern cloud-native engineering (*Terraform parent/child modules, passwordless Azure OIDC, Calico microsegmentation, GitOps, and FinOps governance*).
+
+- **High-Impact Enterprise Delivery:** Led the migration and platform onboarding of **100+ applications** across Dev, UAT, and Production into governed multi-subscription Azure and hybrid cloud environments without unplanned business disruption.
+- **Infrastructure as Code & Platform Foundations:** Hands-on creator of modular **Terraform Landing Zones**, Azure Cloud Adoption Framework (CAF) hierarchies, Hub-and-Spoke connectivity, and policy-driven guardrails.
+- **FinOps & Operational Excellence:** Proven history reducing enterprise cloud spend by **30%+** through automated idle workload deallocation, unattached storage reclamation, and telemetry ingestion tuning.
 
 ---
 
-## 🏛️ Core Engineering Domains & Responsibilities
+## 🏛️ Core Engineering Competencies & Responsibilities
 
 <details open>
 <summary><b>1. ☁️ Cloud Infrastructure & Enterprise Landing Zones</b></summary>
 <br/>
 
-- **Cloud Adoption Framework (CAF):** Implementing end-to-end strategy across **Plan, Ready, Adopt, Govern, Secure, and Manage**.
+- **Cloud Adoption Framework (CAF):** Implementing end-to-end foundation strategy across **Plan, Ready, Adopt, Govern, Secure, and Manage**.
 - **Tenant & Management Group Hierarchy:**
   - Multi-tier structure: *Root Group ➔ Platform MG (Identity, Connectivity, Management) ➔ Landing Zone MG (Corp/Online, Specialized/SAP) ➔ Sandbox & Decommissioned MGs*.
   - Subscription boundaries, automated onboarding/offboarding, and enterprise RBAC assignments.
@@ -129,12 +133,12 @@ Senior DevOps & Cloud Engineer with **14+ years of cross-functional experience**
 </details>
 
 <details open>
-<summary><b>5. 👥 Technical Leadership, Vendor & Transition Governance</b></summary>
+<summary><b>5. 👥 Technical Leadership & Operational Ownership</b></summary>
 <br/>
 
-- **Vendor & Commercial Management:** Authoring Statement of Work (SOW), defining deliverables and acceptance criteria, evaluating RFP/RFI technical matrices, and tracking payment milestones.
-- **Delivery Ownership:** Leading sprint retrospectives, escalation matrix design, cross-functional issue resolution, and executive reporting.
-- **Transitions & Knowledge Transfer:** Building comprehensive SOP documentation, RACI handover matrices, and leading team upskilling sessions.
+- **Delivery & Service Ownership:** Leading sprint planning, dependency tracking, acceptance criteria sign-offs, and escalation matrix governance.
+- **Transitions & Knowledge Transfer:** Authoring comprehensive SOP documentation, RACI handover matrices, and leading team upskilling sessions.
+- **Vendor Evaluation:** Assisting technical task assignments, RFP/RFI reviews, and deliverable verification.
 
 </details>
 
@@ -167,7 +171,7 @@ Senior DevOps & Cloud Engineer with **14+ years of cross-functional experience**
 
 ---
 
-## 🛠️ Technical Competencies
+## 🛠️ Technical Arsenal
 
 <div align="center">
 
@@ -231,7 +235,7 @@ Senior DevOps & Cloud Engineer with **14+ years of cross-functional experience**
 &nbsp;
 [![GitHub Projects](https://img.shields.io/badge/GitHub-Projects_&_Code-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/rahulgoyaldevops?tab=repositories)
 &nbsp;
-[![Medium](https://img.shields.io/badge/Medium-Articles-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@rahulgec04)
+[![Medium](https://img.shields.io/badge/Medium-Technical_Articles-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@rahulgec04)
 &nbsp;
 [![Email](https://img.shields.io/badge/Email-Direct_Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:rahulgoyal.devops@gmail.com)
 
