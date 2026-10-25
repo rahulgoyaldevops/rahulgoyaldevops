@@ -1,18 +1,18 @@
 <div align="center">
 
-<!-- ═══════════════════════ EXECUTIVE HEADER ═══════════════════════ -->
+<!-- ----------------------- EXECUTIVE HEADER ----------------------- -->
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:090d16,35:102a45,70:005a9e,100:0078d4&height=220&section=header&text=Rahul%20Goyal&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=32&desc=Senior%20DevOps%20%26%20Cloud%20Engineer%20%7C%2014%2B%20Years%20Experience&descSize=16&descAlignY=52&descAlign=50" width="100%" />
 
 <br/>
 
-<!-- ═══════════════════════ ROTATING TITLE ═══════════════════════ -->
+<!-- ----------------------- ROTATING TITLE ----------------------- -->
 <a href="https://github.com/rahulgoyaldevops">
   <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=600&size=20&duration=3200&pause=1200&color=0078D4&center=true&vCenter=true&multiline=true&repeat=true&width=750&height=75&lines=Senior+DevOps+%26+Cloud+Engineer+%7C+Infrastructure+%26+Platform+Lead;Automating+Landing+Zones+%7C+DevSecOps+%7C+100%2B+App+Migrations;FinOps+Cost+Optimization+%7C+Kubernetes+(AKS)+%7C+Enterprise+Governance" alt="Typing Headline" />
 </a>
 
 <br/>
 
-<!-- ═══════════════════════ QUICK CONNECT BADGES ═══════════════════════ -->
+<!-- ----------------------- QUICK CONNECT BADGES ----------------------- -->
 <a href="https://www.linkedin.com/in/rahulgoyaldevops/">
   <img src="https://img.shields.io/badge/LinkedIn-Rahul_Goyal-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
@@ -27,7 +27,7 @@
 
 <br/><br/>
 
-<!-- ═══════════════════════ EXECUTIVE METRIC CARDS ═══════════════════════ -->
+<!-- ----------------------- EXECUTIVE METRIC CARDS ----------------------- -->
 <table>
   <tr>
     <td align="center" width="25%">
