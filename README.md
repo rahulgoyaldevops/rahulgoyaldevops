@@ -5,10 +5,10 @@
 
 <br/>
 
-<!-- DYNAMIC TYPING HEADLINE (HIGH-VALUE POSITIONING) -->
+<!-- DYNAMIC TYPING HEADLINE (HIGH-VALUE POSITIONING - 100% AZURE FOCUSED) -->
 <p align="center">
   <a href="https://github.com/rahulgoyaldevops">
-    <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=600&size=21&duration=3000&pause=1400&color=0078D4&center=true&vCenter=true&repeat=true&width=740&height=42&lines=Senior+DevOps+Engineer+%7C+14%2B+Yrs+IT+%E2%80%A2+6.5%2B+Yrs+DevOps;Multi-Subscription+Azure+%26+AWS+%7C+Terraform+Landing+Zones;Zero-Downtime+Migration+Factory+%7C+100%2B+Applications;FinOps+Cost+Governance+%7C+Production+Kubernetes+(AKS);Zero-Trust+DevSecOps+Pipelines+with+Passwordless+Azure+OIDC" alt="Typing Headline" />
+    <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=600&size=21&duration=3000&pause=1400&color=0078D4&center=true&vCenter=true&repeat=true&width=740&height=42&lines=Senior+DevOps+Engineer+%7C+14%2B+Yrs+IT+%E2%80%A2+6.5%2B+Yrs+DevOps;Multi-Subscription+Azure+Platform+%7C+Terraform+Landing+Zones;Zero-Downtime+Migration+Factory+%7C+19+Enterprise+Apps;FinOps+Cost+Governance+%7C+Production+Kubernetes+(AKS);Zero-Trust+DevSecOps+Pipelines+with+Passwordless+Azure+OIDC" alt="Typing Headline" />
   </a>
 </p>
 
@@ -41,7 +41,7 @@
       <sub><b>6.5+ Yrs Cloud & DevOps</b><br/>Systems & Platform Engineering</sub>
     </td>
     <td align="center" width="25%">
-      <h3>🚀 100+ Enterprise Apps</h3>
+      <h3>🚀 19 Enterprise Apps</h3>
       <sub><b>Zero-Downtime Migrations</b><br/>Multi-Subscription Scale</sub>
     </td>
     <td align="center" width="25%">
@@ -61,13 +61,13 @@
 
 ## 💼 Executive Profile
 
-Senior DevOps Engineer with **14+ years of robust enterprise IT background**, including **6.5+ years of specialized hands-on expertise in Cloud Infrastructure Automation, Kubernetes Platform Engineering, large-scale Cloud Migrations, and DevSecOps**.
+Senior DevOps Engineer with **14+ years of robust enterprise IT background**, including **6.5+ years of specialized hands-on expertise in Microsoft Azure Infrastructure Automation, Kubernetes Platform Engineering, large-scale Cloud Migrations, and DevSecOps**.
 
 Combines the operational discipline, disaster recovery instincts, and networking depth of a 14-year systems veteran with modern cloud-native engineering (*Terraform parent/child modules, passwordless Azure OIDC, Calico microsegmentation, GitOps, and FinOps governance*).
 
-- **High-Impact Enterprise Delivery:** Led the migration and platform onboarding of **100+ applications** across Dev, UAT, and Production into governed multi-subscription Azure and hybrid cloud environments without unplanned business disruption.
-- **Infrastructure as Code & Platform Foundations:** Hands-on creator of modular **Terraform Landing Zones**, Azure Cloud Adoption Framework (CAF) hierarchies, Hub-and-Spoke connectivity, and policy-driven guardrails.
-- **FinOps & Operational Excellence:** Proven history reducing enterprise cloud spend by **30%+** through automated idle workload deallocation, unattached storage reclamation, and telemetry ingestion tuning.
+- **Enterprise Cloud Delivery:** Spearheaded the migration and platform onboarding of **19 enterprise applications** across Dev, UAT, and Production into governed multi-subscription Azure and hybrid cloud environments with zero unplanned downtime.
+- **Infrastructure as Code & Platform Foundations:** Hands-on specialist in modular **Terraform Landing Zones**, Azure Cloud Adoption Framework (CAF) hierarchies, Hub-and-Spoke connectivity, and policy-driven guardrails.
+- **FinOps & Operational Excellence:** Proven history reducing enterprise Azure spend by **30%+** through automated idle workload deallocation, unattached storage reclamation, and telemetry ingestion tuning.
 
 ---
 
@@ -104,13 +104,13 @@ Combines the operational discipline, disaster recovery instincts, and networking
 </details>
 
 <details open>
-<summary><b>3. 🔄 Large-Scale Cloud Migrations (100+ Applications)</b></summary>
+<summary><b>3. 🔄 Cloud Migration Factory (19 Enterprise Applications)</b></summary>
 <br/>
 
 - **Migration Factory Methodology:**
   - **Discovery & Assessment:** CMDB analysis, automated dependency mapping, workload profiling, and 6R strategy rationalization (*Rehost, Replatform, Refactor, Repurchase, Retire, Retain*).
   - **Readiness Checklists:** Pre-migration validation covering subnet CIDRs, ExpressRoute latency, firewall rules, and backup verification.
-  - **Execution & Cutover:** Parallel runs, continuous data replication, DNS TTL tuning, cutover runbooks, and rollback SLAs.
+  - **Execution & Cutover:** Parallel runs, continuous data replication, DNS TTL tuning, cutover runbooks, and rollback SLAs for 19 core workloads.
   - **Hypercare & Transition:** Performance baseline audits, monitoring alerts, stakeholder sign-offs, and operations handover.
 
 </details>
@@ -163,7 +163,7 @@ Combines the operational discipline, disaster recovery instincts, and networking
 | 🏗️ **[tf-monolithic-landing-zone](https://github.com/rahulgoyaldevops/tf-monolithic-landing-zone)** | Modular Enterprise Azure Landing Zone | `Terraform`, `AzureRM`, `Key Vault`, `Infracost` |
 | 🔄 **[terraform-github-actions](https://github.com/rahulgoyaldevops/terraform-github-actions)** | Passwordless Terraform CI/CD with Azure OIDC | `GitHub Actions`, `Azure OIDC`, `DevSecOps` |
 | 🔒 **[azure-devsecops-pipeline-templates](https://github.com/rahulgoyaldevops/azure-devsecops-pipeline-templates)** | Enterprise Azure DevOps Pipeline Library | `Azure DevOps`, `Checkov`, `TFLint`, `Gitleaks` |
-| 📋 **[cloud-migration-playbook](https://github.com/rahulgoyaldevops/cloud-migration-playbook)** | 100+ App Migration Factory & 6R Framework | `Migration Checklists`, `Cutover`, `Hypercare` |
+| 📋 **[cloud-migration-playbook](https://github.com/rahulgoyaldevops/cloud-migration-playbook)** | 19 Enterprise App Migration Factory & 6R Framework | `Migration Checklists`, `Cutover`, `Hypercare` |
 | 💰 **[azure-finops-governance-toolkit](https://github.com/rahulgoyaldevops/azure-finops-governance-toolkit)** | Cost Optimization Scripts & Policy as Code | `PowerShell`, `Azure Policy`, `FinOps Toolkit` |
 | ☸️ **[kubernetes-production-aks](https://github.com/rahulgoyaldevops/kubernetes-production-aks)** | Multi-Zone Production AKS Platform | `Kubernetes`, `AKS`, `Calico CNI`, `ArgoCD` |
 
@@ -175,10 +175,11 @@ Combines the operational discipline, disaster recovery instincts, and networking
 
 <div align="center">
 
-**Cloud Platforms**<br/>
-![Azure](https://img.shields.io/badge/Azure-0078D4?style=flat-square&logo=microsoftazure&logoColor=white)
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonwebservices&logoColor=white)
-![GCP](https://img.shields.io/badge/GCP-4285F4?style=flat-square&logo=googlecloud&logoColor=white)
+**Cloud Platforms & OS**<br/>
+![Azure](https://img.shields.io/badge/Microsoft_Azure-0078D4?style=flat-square&logo=microsoftazure&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
+![RHEL](https://img.shields.io/badge/Red_Hat_Enterprise_Linux-EE0000?style=flat-square&logo=redhat&logoColor=white)
+![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=flat-square&logo=ubuntu&logoColor=white)
 
 **Infrastructure as Code & Automation**<br/>
 ![Terraform](https://img.shields.io/badge/Terraform-623CE4?style=flat-square&logo=terraform&logoColor=white)
