@@ -1,18 +1,18 @@
 <div align="center">
 
-<!-- HEADER WAVE BANNER -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:090d16,35:102a45,70:005a9e,100:0078d4&height=220&section=header&text=Rahul%20Goyal&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=32&desc=Senior%20DevOps%20%26%20Cloud%20Engineer%20%7C%2014%2B%20Years%20Experience&descSize=16&descAlignY=52&descAlign=50" width="100%" />
+<!-- HEADER WAVE BANNER (NO UNESCAPED AMPERSAND IN DESC TO PREVENT XML PARSE ERROR) -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:090d16,35:102a45,70:005a9e,100:0078d4&height=220&section=header&text=Rahul%20Goyal&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=32&desc=Senior%20DevOps%20and%20Cloud%20Engineer%20%7C%2014%2B%20Years%20Experience&descSize=16&descAlignY=52&descAlign=50" width="100%" />
 
 <br/>
 
-<!-- DYNAMIC TYPING HEADLINE (SINGLE-LINE SEQUENTIAL CYCLING - NO OVERFLOW) -->
+<!-- DYNAMIC TYPING HEADLINE (SINGLE-LINE SEQUENTIAL CYCLING - PROPERLY SIZED) -->
 <p align="center">
   <a href="https://github.com/rahulgoyaldevops">
-    <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=600&size=22&duration=3000&pause=1400&color=0078D4&center=true&vCenter=true&repeat=true&width=720&height=42&lines=Senior+DevOps+%26+Cloud+Engineer+%7C+14%2B+Years;Infrastructure+%26+Platform+Lead;Automating+Enterprise+Landing+Zones+%7C+DevSecOps;Leading+100%2B+App+Migrations+%7C+FinOps+Governance;Kubernetes+(AKS)+%7C+Policy+as+Code+%7C+Zero-Trust" alt="Typing Headline" />
+    <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=600&size=22&duration=3000&pause=1400&color=0078D4&center=true&vCenter=true&repeat=true&width=720&height=42&lines=Senior+DevOps+and+Cloud+Engineer+%7C+14%2B+Years;Infrastructure+and+Platform+Lead;Automating+Enterprise+Landing+Zones+%7C+DevSecOps;Leading+100%2B+App+Migrations+%7C+FinOps+Governance;Kubernetes+(AKS)+%7C+Policy+as+Code+%7C+Zero-Trust" alt="Typing Headline" />
   </a>
 </p>
 
-<!-- ACTIONABLE CONNECT BUTTONS (PROPERLY SPACED) -->
+<!-- ACTIONABLE CONNECT BUTTONS -->
 <p align="center">
   <a href="https://www.linkedin.com/in/rahulgoyaldevops/">
     <img src="https://img.shields.io/badge/LinkedIn-Rahul_Goyal-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
@@ -215,11 +215,11 @@ Senior DevOps & Cloud Engineer with **14+ years of cross-functional experience**
 
 <img src="https://github-readme-stats.vercel.app/api?username=rahulgoyaldevops&show_icons=true&theme=github_dark&hide_border=true&count_private=true&bg_color=0d1117&title_color=0078d4&icon_color=0078d4&text_color=c9d1d9" width="48%" />
 &nbsp;
-<img src="https://nirzak-streak-stats.vercel.app/?user=rahulgoyaldevops&theme=github-dark-blue&hide_border=true&background=0d1117&stroke=0078d4&ring=0078d4&fire=ff6f00&currStreakLabel=0078d4" width="48%" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=rahulgoyaldevops&theme=github-dark-blue&hide_border=true&background=0d1117&stroke=0078d4&ring=0078d4&fire=ff6f00&currStreakLabel=0078d4" width="48%" />
 
-<br/>
+<br/><br/>
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=rahulgoyaldevops&theme=github-compact&hide_border=true&bg_color=0d1117&color=0078d4&line=0078d4&point=0078d4&area=true&area_color=0078d4" width="98%" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rahulgoyaldevops&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=0078d4&text_color=c9d1d9" width="55%" />
 
 </div>
 
