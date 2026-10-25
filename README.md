@@ -18,9 +18,7 @@
     <img src="https://img.shields.io/badge/LinkedIn-Rahul_Goyal-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
   &nbsp;&nbsp;
-  <a href="https://rahulgoyal.co.in">
-    <img src="https://img.shields.io/badge/Portfolio-rahulgoyal.co.in-0078D4?style=for-the-badge&logo=googlechrome&logoColor=white" />
-  </a>
+  <a href="https://github.com/rahulgoyaldevops?tab=repositories"><img src="https://img.shields.io/badge/GitHub-Projects_&_Code-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
   &nbsp;&nbsp;
   <a href="https://medium.com/@rahulgec04">
     <img src="https://img.shields.io/badge/Medium-Articles-12100E?style=for-the-badge&logo=medium&logoColor=white" />
@@ -65,14 +63,14 @@ Senior DevOps & Cloud Engineer with **14+ years of cross-functional experience**
 
 - **Enterprise Cloud Delivery:** Proven track record leading **100+ application migrations** across Dev, UAT, and Production from on-premises datacenters into governed, multi-subscription Azure and hybrid cloud environments.
 - **Infrastructure as Code (IaC) & Platform Foundations:** Hands-on specialist in modular **Terraform Landing Zones**, Azure Cloud Adoption Framework (CAF), Hub-and-Spoke networking, and policy-driven compliance.
-- **Technical Leadership & Ownership:** Extensive experience driving vendor SOW evaluations, technical RFP proposals, RACI transition frameworks, architecture review boards, and upskilling engineering teams.
+- **Technical Leadership & Ownership:** Extensive experience driving vendor SOW evaluations, technical RFP proposals, RACI transition frameworks, engineering review boards, and upskilling engineering teams.
 
 ---
 
 ## 🏛️ Core Engineering Domains & Responsibilities
 
 <details open>
-<summary><b>1. ☁️ Cloud Architecture & Enterprise Landing Zones</b></summary>
+<summary><b>1. ☁️ Cloud Infrastructure & Enterprise Landing Zones</b></summary>
 <br/>
 
 - **Cloud Adoption Framework (CAF):** Implementing end-to-end strategy across **Plan, Ready, Adopt, Govern, Secure, and Manage**.
@@ -145,14 +143,14 @@ Senior DevOps & Cloud Engineer with **14+ years of cross-functional experience**
 <br/>
 
 - **AIOps & Predictive Monitoring:** Intelligent anomaly detection in telemetry pipelines and AI-assisted root-cause analysis.
-- **Enterprise Azure OpenAI:** Architecting private endpoints, managed identity access, and scalable foundation model deployments.
+- **Enterprise Azure OpenAI:** Engineering private endpoints, managed identity access, and scalable foundation model deployments.
 - **Developer Productivity:** AI-assisted IaC generation, automated incident runbook drafting, and pipeline optimization.
 
 </details>
 
 ---
 
-## 📌 Featured Production Architectures & Code Repositories
+## 📌 Featured Production Engineering Blueprints & Repositories
 
 <div align="center">
 
@@ -163,7 +161,7 @@ Senior DevOps & Cloud Engineer with **14+ years of cross-functional experience**
 | 🔒 **[azure-devsecops-pipeline-templates](https://github.com/rahulgoyaldevops/azure-devsecops-pipeline-templates)** | Enterprise Azure DevOps Pipeline Library | `Azure DevOps`, `Checkov`, `TFLint`, `Gitleaks` |
 | 📋 **[cloud-migration-playbook](https://github.com/rahulgoyaldevops/cloud-migration-playbook)** | 100+ App Migration Factory & 6R Framework | `Migration Checklists`, `Cutover`, `Hypercare` |
 | 💰 **[azure-finops-governance-toolkit](https://github.com/rahulgoyaldevops/azure-finops-governance-toolkit)** | Cost Optimization Scripts & Policy as Code | `PowerShell`, `Azure Policy`, `FinOps Toolkit` |
-| ☸️ **[kubernetes-production-aks](https://github.com/rahulgoyaldevops/kubernetes-production-aks)** | Multi-Zone Production AKS Architecture | `Kubernetes`, `AKS`, `Calico CNI`, `ArgoCD` |
+| ☸️ **[kubernetes-production-aks](https://github.com/rahulgoyaldevops/kubernetes-production-aks)** | Multi-Zone Production AKS Platform | `Kubernetes`, `AKS`, `Calico CNI`, `ArgoCD` |
 
 </div>
 
@@ -231,7 +229,7 @@ Senior DevOps & Cloud Engineer with **14+ years of cross-functional experience**
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rahulgoyaldevops/)
 &nbsp;
-[![Portfolio](https://img.shields.io/badge/Website-rahulgoyal.co.in-0078D4?style=for-the-badge&logo=googlechrome&logoColor=white)](https://rahulgoyal.co.in)
+[![GitHub Projects](https://img.shields.io/badge/GitHub-Projects_&_Code-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/rahulgoyaldevops?tab=repositories)
 &nbsp;
 [![Medium](https://img.shields.io/badge/Medium-Articles-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@rahulgec04)
 &nbsp;
