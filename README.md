@@ -1,33 +1,39 @@
 <div align="center">
 
-<!-- ----------------------- EXECUTIVE HEADER ----------------------- -->
+<!-- HEADER WAVE BANNER -->
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:090d16,35:102a45,70:005a9e,100:0078d4&height=220&section=header&text=Rahul%20Goyal&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=32&desc=Senior%20DevOps%20%26%20Cloud%20Engineer%20%7C%2014%2B%20Years%20Experience&descSize=16&descAlignY=52&descAlign=50" width="100%" />
 
 <br/>
 
-<!-- ----------------------- ROTATING TITLE ----------------------- -->
-<a href="https://github.com/rahulgoyaldevops">
-  <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=600&size=20&duration=3200&pause=1200&color=0078D4&center=true&vCenter=true&multiline=true&repeat=true&width=750&height=75&lines=Senior+DevOps+%26+Cloud+Engineer+%7C+Infrastructure+%26+Platform+Lead;Automating+Landing+Zones+%7C+DevSecOps+%7C+100%2B+App+Migrations;FinOps+Cost+Optimization+%7C+Kubernetes+(AKS)+%7C+Enterprise+Governance" alt="Typing Headline" />
-</a>
+<!-- DYNAMIC TYPING HEADLINE (SINGLE-LINE SEQUENTIAL CYCLING - NO OVERFLOW) -->
+<p align="center">
+  <a href="https://github.com/rahulgoyaldevops">
+    <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=600&size=22&duration=3000&pause=1400&color=0078D4&center=true&vCenter=true&repeat=true&width=720&height=42&lines=Senior+DevOps+%26+Cloud+Engineer+%7C+14%2B+Years;Infrastructure+%26+Platform+Lead;Automating+Enterprise+Landing+Zones+%7C+DevSecOps;Leading+100%2B+App+Migrations+%7C+FinOps+Governance;Kubernetes+(AKS)+%7C+Policy+as+Code+%7C+Zero-Trust" alt="Typing Headline" />
+  </a>
+</p>
+
+<!-- ACTIONABLE CONNECT BUTTONS (PROPERLY SPACED) -->
+<p align="center">
+  <a href="https://www.linkedin.com/in/rahulgoyaldevops/">
+    <img src="https://img.shields.io/badge/LinkedIn-Rahul_Goyal-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  &nbsp;&nbsp;
+  <a href="https://rahulgoyal.co.in">
+    <img src="https://img.shields.io/badge/Portfolio-rahulgoyal.co.in-0078D4?style=for-the-badge&logo=googlechrome&logoColor=white" />
+  </a>
+  &nbsp;&nbsp;
+  <a href="https://medium.com/@rahulgec04">
+    <img src="https://img.shields.io/badge/Medium-Articles-12100E?style=for-the-badge&logo=medium&logoColor=white" />
+  </a>
+  &nbsp;&nbsp;
+  <a href="mailto:rahulgoyal.devops@gmail.com">
+    <img src="https://img.shields.io/badge/Email-Get_In_Touch-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+</p>
 
 <br/>
 
-<!-- ----------------------- QUICK CONNECT BADGES ----------------------- -->
-<a href="https://www.linkedin.com/in/rahulgoyaldevops/">
-  <img src="https://img.shields.io/badge/LinkedIn-Rahul_Goyal-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
-</a>
-&nbsp;
-<a href="https://rahulgoyal.co.in">
-  <img src="https://img.shields.io/badge/Portfolio-rahulgoyal.co.in-0078D4?style=for-the-badge&logo=googlechrome&logoColor=white" />
-</a>
-&nbsp;
-<a href="mailto:rahulgoyal.devops@gmail.com">
-  <img src="https://img.shields.io/badge/Email-Get_In_Touch-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
-</a>
-
-<br/><br/>
-
-<!-- ----------------------- EXECUTIVE METRIC CARDS ----------------------- -->
+<!-- EXECUTIVE IMPACT METRICS -->
 <table>
   <tr>
     <td align="center" width="25%">
