@@ -166,6 +166,7 @@ Combines the operational discipline, disaster recovery instincts, and networking
 | 📋 **[cloud-migration-playbook](https://github.com/rahulgoyaldevops/cloud-migration-playbook)** | 19 Enterprise App Migration Factory & 6R Framework | `Migration Checklists`, `Cutover`, `Hypercare` |
 | 💰 **[azure-finops-governance-toolkit](https://github.com/rahulgoyaldevops/azure-finops-governance-toolkit)** | Cost Optimization Scripts & Policy as Code | `PowerShell`, `Azure Policy`, `FinOps Toolkit` |
 | ☸️ **[kubernetes-production-aks](https://github.com/rahulgoyaldevops/kubernetes-production-aks)** | Multi-Zone Production AKS Platform | `Kubernetes`, `AKS`, `Calico CNI`, `ArgoCD` |
+| 🛡️ **[devsecops-cryptographic-resilience](https://github.com/rahulgoyaldevops/devsecops-cryptographic-resilience)** | Zero-Trust Cryptographic Resilience Framework & Incident Post-Mortem | `Python`, `Cryptography`, `Kubernetes`, `DevSecOps` |
 
 </div>
 
