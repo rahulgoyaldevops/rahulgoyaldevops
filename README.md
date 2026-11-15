@@ -1,56 +1,62 @@
 <div align="center">
 
-<!-- HEADER WAVE BANNER -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:090d16,35:102a45,70:005a9e,100:0078d4&height=220&section=header&text=Rahul%20Goyal&fontSize=48&fontColor=ffffff&animation=fadeIn&fontAlignY=32&desc=Senior%20DevOps%20Engineer%20%7C%2014%2B%20Years%20IT%20(6.5%2B%20Years%20DevOps%20and%20Cloud)&descSize=15&descAlignY=52&descAlign=50" width="100%" />
+<!-- HERO HEADER BANNER -->
+<img src="https://capsule-render.vercel.app/api?type=soft&color=0:0b0f19,40:0f2440,75:005a9e,100:0078d4&height=190&section=header&text=Rahul%20Goyal&fontSize=44&fontColor=ffffff&animation=fadeIn&fontAlignY=36&desc=Senior%20DevOps%20Engineer%20%7C%2014%2B%20Years%20IT%20(6.5%2B%20Years%20Cloud%20%26%20DevOps)&descSize=15&descAlignY=58&descAlign=50" width="100%" alt="Rahul Goyal Header" />
 
 <br/>
 
-<!-- DYNAMIC TYPING HEADLINE (HIGH-VALUE POSITIONING - 100% AZURE FOCUSED) -->
+<!-- DYNAMIC TYPING HEADLINE -->
 <p align="center">
   <a href="https://github.com/rahulgoyaldevops">
-    <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=600&size=21&duration=3000&pause=1400&color=0078D4&center=true&vCenter=true&repeat=true&width=740&height=42&lines=Senior+DevOps+Engineer+%7C+14%2B+Yrs+IT+%E2%80%A2+6.5%2B+Yrs+DevOps;Multi-Subscription+Azure+Platform+%7C+Terraform+Landing+Zones;Zero-Downtime+Migration+Factory+%7C+19+Enterprise+Apps;FinOps+Cost+Governance+%7C+Production+Kubernetes+(AKS);Zero-Trust+DevSecOps+Pipelines+with+Passwordless+Azure+OIDC" alt="Typing Headline" />
+    <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=600&size=20&duration=3000&pause=1400&color=0078D4&center=true&vCenter=true&repeat=true&width=780&height=40&lines=Senior+DevOps+Engineer+%7C+14%2B+Yrs+Enterprise+IT+%E2%80%A2+6.5%2B+Yrs+Cloud+%26+DevOps;Multi-Subscription+Azure+Platform+%7C+Terraform+Landing+Zones;Enterprise+Cloud+Migration+Factory+%7C+19+Core+Workloads;Production-Grade+AKS+Platform+%7C+GitOps+(ArgoCD)+%7C+Calico;Zero-Trust+DevSecOps+Pipelines+%7C+Passwordless+Azure+OIDC;FinOps+Cloud+Governance+%7C+30%25%2B+Optimized+Resource+Spend" alt="Typing Headline" />
   </a>
 </p>
 
-<!-- ACTIONABLE CONNECT BUTTONS -->
+<!-- ACTIONABLE CONNECT BUTTONS (SYMMETRICAL BRANDING) -->
 <p align="center">
-  <a href="https://www.linkedin.com/in/rahulgoyaldevops/">
-    <img src="https://img.shields.io/badge/LinkedIn-Rahul_Goyal-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+  <a href="https://www.linkedin.com/in/rahulgoyaldevops/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-Rahul_Goyal-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
-  &nbsp;&nbsp;
-  <a href="https://github.com/rahulgoyaldevops?tab=repositories">
-    <img src="https://img.shields.io/badge/GitHub-Production_Repositories-181717?style=for-the-badge&logo=github&logoColor=white" />
+  &nbsp;
+  <a href="https://github.com/rahulgoyaldevops?tab=repositories" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-Repositories-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Repos" />
   </a>
-  &nbsp;&nbsp;
-  <a href="https://medium.com/@rahulgec04">
-    <img src="https://img.shields.io/badge/Medium-Technical_Articles-12100E?style=for-the-badge&logo=medium&logoColor=white" />
+  &nbsp;
+  <a href="https://medium.com/@rahulgec04" target="_blank">
+    <img src="https://img.shields.io/badge/Medium-Articles-12100E?style=for-the-badge&logo=medium&logoColor=white" alt="Medium" />
   </a>
-  &nbsp;&nbsp;
-  <a href="mailto:rahulgoyal.devops@gmail.com">
-    <img src="https://img.shields.io/badge/Email-Direct_Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
+  &nbsp;
+  <a href="mailto:rahulgoyal.devops@gmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/Email-Get_In_Touch-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a>
 </p>
 
-<br/>
-
-<!-- EXECUTIVE IMPACT METRICS -->
+<!-- EXECUTIVE IMPACT METRICS (CLEAN, SYMMETRICAL TABLE) -->
 <table>
   <tr>
     <td align="center" width="25%">
-      <h3>⏱️ 14+ Yrs Total IT</h3>
-      <sub><b>6.5+ Yrs Cloud & DevOps</b><br/>Systems & Platform Engineering</sub>
+      <p align="center">
+        <b>⏱️ 14+ Years Total IT</b><br/>
+        <sub><b>6.5+ Yrs Cloud & DevOps</b><br/>Enterprise Platform Engineering</sub>
+      </p>
     </td>
     <td align="center" width="25%">
-      <h3>🚀 19 Enterprise Apps</h3>
-      <sub><b>Zero-Downtime Migrations</b><br/>Multi-Subscription Scale</sub>
+      <p align="center">
+        <b>🚀 19 Enterprise Apps</b><br/>
+        <sub><b>Zero-Downtime Migrations</b><br/>Multi-Subscription Scale</sub>
+      </p>
     </td>
     <td align="center" width="25%">
-      <h3>💰 30%+ FinOps ROI</h3>
-      <sub><b>Cloud Cost Reduction</b><br/>Resource & Telemetry Tuning</sub>
+      <p align="center">
+        <b>💰 30%+ FinOps ROI</b><br/>
+        <sub><b>Cloud Cost Optimization</b><br/>Governance & Resource Tuning</sub>
+      </p>
     </td>
     <td align="center" width="25%">
-      <h3>🔐 Zero-Trust OIDC</h3>
-      <sub><b>Passwordless Pipelines</b><br/>Automated Drift Detection</sub>
+      <p align="center">
+        <b>🔐 Zero-Trust OIDC</b><br/>
+        <sub><b>Passwordless Pipelines</b><br/>Continuous Drift Detection</sub>
+      </p>
     </td>
   </tr>
 </table>
@@ -59,190 +65,105 @@
 
 ---
 
-## 💼 Executive Profile
+### 💼 Executive Profile
 
-Senior DevOps Engineer with **14+ years of robust enterprise IT background**, including **6.5+ years of specialized hands-on expertise in Microsoft Azure Infrastructure Automation, Kubernetes Platform Engineering, large-scale Cloud Migrations, and DevSecOps**.
+Senior DevOps & Cloud Platform Engineer with **14+ years of robust enterprise IT background**, including **6.5+ years of dedicated, hands-on leadership in Microsoft Azure Infrastructure Automation, Kubernetes Platform Engineering, large-scale Cloud Migrations, and DevSecOps**.
 
-Combines the operational discipline, disaster recovery instincts, and networking depth of a 14-year systems veteran with modern cloud-native engineering (*Terraform parent/child modules, passwordless Azure OIDC, Calico microsegmentation, GitOps, and FinOps governance*).
+Combines the operational rigor, deep networking acumen, and disaster-recovery instincts of a 14-year systems veteran with modern cloud-native engineering (*modular Terraform, passwordless Azure OIDC federation, GitOps with ArgoCD, Calico microsegmentation, and FinOps cost governance*).
 
-- **Enterprise Cloud Delivery:** Spearheaded the migration and platform onboarding of **19 enterprise applications** across Dev, UAT, and Production into governed multi-subscription Azure and hybrid cloud environments with zero unplanned downtime.
-- **Infrastructure as Code & Platform Foundations:** Hands-on specialist in modular **Terraform Landing Zones**, Azure Cloud Adoption Framework (CAF) hierarchies, Hub-and-Spoke connectivity, and policy-driven guardrails.
-- **FinOps & Operational Excellence:** Proven history reducing enterprise Azure spend by **30%+** through automated idle workload deallocation, unattached storage reclamation, and telemetry ingestion tuning.
-
----
-
-## 🏛️ Core Engineering Competencies & Responsibilities
-
-<details open>
-<summary><b>1. ☁️ Cloud Infrastructure & Enterprise Landing Zones</b></summary>
-<br/>
-
-- **Cloud Adoption Framework (CAF):** Implementing end-to-end foundation strategy across **Plan, Ready, Adopt, Govern, Secure, and Manage**.
-- **Tenant & Management Group Hierarchy:**
-  - Multi-tier structure: *Root Group ➔ Platform MG (Identity, Connectivity, Management) ➔ Landing Zone MG (Corp/Online, Specialized/SAP) ➔ Sandbox & Decommissioned MGs*.
-  - Subscription boundaries, automated onboarding/offboarding, and enterprise RBAC assignments.
-- **Hub-and-Spoke Networking:**
-  - Centralized ingress/egress inspection via Azure Firewall and Network Virtual Appliances (NVAs).
-  - Transit routing with User Defined Routes (UDR), Network Security Groups (NSGs), and Private DNS Zone resolution chains.
-  - Hybrid connectivity via ExpressRoute and Site-to-Site VPN Gateways with on-premises CIDR alignment.
-
-</details>
-
-<details open>
-<summary><b>2. ⚡ DevSecOps, CI/CD & Infrastructure as Code (IaC)</b></summary>
-<br/>
-
-- **Terraform Enterprise Standards:**
-  - Modular, DRY design using parent-child module architecture and semantic versioning.
-  - Remote encrypted state with blob storage locking and least-privilege RBAC.
-  - Automated drift detection pipelines with proactive Slack/Teams alert notifications.
-- **Pipeline Engineering (Azure DevOps & GitHub Actions):**
-  - **Passwordless Authentication:** Azure OIDC Workload Identity Federation (eliminating static client secrets).
-  - **Quality & Security Gates:** Multi-stage validation (`terraform fmt`, `tflint`, `checkov`, `tfsec`, `gitleaks`, `infracost`).
-  - **Release Strategy:** Trunk-based branching, mandatory PR reviews (min 2 reviewers), CODEOWNERS enforcement, and automated rollback workflows.
-
-</details>
-
-<details open>
-<summary><b>3. 🔄 Cloud Migration Factory (19 Enterprise Applications)</b></summary>
-<br/>
-
-- **Migration Factory Methodology:**
-  - **Discovery & Assessment:** CMDB analysis, automated dependency mapping, workload profiling, and 6R strategy rationalization (*Rehost, Replatform, Refactor, Repurchase, Retire, Retain*).
-  - **Readiness Checklists:** Pre-migration validation covering subnet CIDRs, ExpressRoute latency, firewall rules, and backup verification.
-  - **Execution & Cutover:** Parallel runs, continuous data replication, DNS TTL tuning, cutover runbooks, and rollback SLAs for 19 core workloads.
-  - **Hypercare & Transition:** Performance baseline audits, monitoring alerts, stakeholder sign-offs, and operations handover.
-
-</details>
-
-<details open>
-<summary><b>4. 🛡️ Security, Governance, FinOps & Resilience</b></summary>
-<br/>
-
-- **Defense-in-Depth Security:**
-  - Identity & Access: Microsoft Entra ID, Conditional Access, PIM (Privileged Identity Management), and Azure RBAC.
-  - Data & Compute: Azure Key Vault secrets/keys, customer-managed keys (CMK), Defender for Cloud, and JIT VM access.
-- **FinOps & Cost Governance:**
-  - Automated detection and remediation of idle VMs, unattached managed disks, and orphaned public IPs.
-  - Tagging compliance enforcement via Azure Policy initiatives to enable granular department showback/chargeback.
-  - Reserved capacity planning, VM auto start/stop scheduling, and Azure Monitor log ingestion tuning.
-- **High Availability & Disaster Recovery (DR):**
-  - Storage redundancy strategies (LRS, ZRS, GRS) aligned with business RTO/RPO targets.
-  - Virtual Machine Scale Sets (VMSS) with multi-zone distribution and automated health-probe self-healing.
-
-</details>
-
-<details open>
-<summary><b>5. 👥 Technical Leadership & Operational Ownership</b></summary>
-<br/>
-
-- **Delivery & Service Ownership:** Leading sprint planning, dependency tracking, acceptance criteria sign-offs, and escalation matrix governance.
-- **Transitions & Knowledge Transfer:** Authoring comprehensive SOP documentation, RACI handover matrices, and leading team upskilling sessions.
-- **Vendor Evaluation:** Assisting technical task assignments, RFP/RFI reviews, and deliverable verification.
-
-</details>
-
-<details open>
-<summary><b>6. 🤖 Modern AI-Augmented Engineering</b></summary>
-<br/>
-
-- **AIOps & Predictive Monitoring:** Intelligent anomaly detection in telemetry pipelines and AI-assisted root-cause analysis.
-- **Enterprise Azure OpenAI:** Engineering private endpoints, managed identity access, and scalable foundation model deployments.
-- **Developer Productivity:** AI-assisted IaC generation, automated incident runbook drafting, and pipeline optimization.
-
-</details>
+* **Enterprise Cloud Delivery:** Architected and executed the migration and platform onboarding of **19 enterprise business applications** across Dev, UAT, and Production into governed multi-subscription Azure environments with zero unplanned downtime.
+* **Infrastructure as Code & Landing Zones:** Specialist in modular **Terraform Landing Zones**, Azure Cloud Adoption Framework (CAF) hierarchies, Hub-and-Spoke connectivity, forced-tunnel routing, and automated policy guardrails.
+* **FinOps & Cost Governance:** Proven track record reducing enterprise cloud run-rate by **30%+** through automated idle workload deallocation, unattached storage reclamation, and telemetry log ingestion tuning.
 
 ---
 
-## 📌 Featured Production Engineering Blueprints & Repositories
+### 📌 Featured Enterprise Engineering Blueprints
+
+| Blueprint / Repository | Domain & Architecture | Core Stack | Status |
+| :--- | :--- | :--- | :---: |
+| 🏗️ **[tf-monolithic-landing-zone](https://github.com/rahulgoyaldevops/tf-monolithic-landing-zone)** | **Enterprise Azure Landing Zone**<br/>CAF Management Groups, Hub-Spoke, UDR, NSGs, Key Vault | `Terraform` `Azure CAF` `Infracost` | ![Active](https://img.shields.io/badge/Production-Ready-0078D4?style=flat-square) |
+| 🔄 **[terraform-github-actions](https://github.com/rahulgoyaldevops/terraform-github-actions)** | **Passwordless Azure CI/CD Pipeline**<br/>GitHub Actions, OIDC Workload Identity, Drift Detection | `GitHub Actions` `OIDC` `DevSecOps` | ![Active](https://img.shields.io/badge/Battle--Tested-238636?style=flat-square) |
+| ☸️ **[kubernetes-production-aks](https://github.com/rahulgoyaldevops/kubernetes-production-aks)** | **Production-Grade AKS Platform**<br/>Multi-Zone AKS, Calico CNI, GitOps, Workload Identity | `Kubernetes` `AKS` `ArgoCD` `Calico` | ![Active](https://img.shields.io/badge/Production-Ready-0078D4?style=flat-square) |
+| 🔒 **[azure-devsecops-pipeline-templates](https://github.com/rahulgoyaldevops/azure-devsecops-pipeline-templates)** | **Enterprise DevSecOps Pipeline Library**<br/>Shift-Left Security Gates, Checkov, TFLint, Gitleaks, Rollback | `Azure DevOps` `Checkov` `Gitleaks` | ![Active](https://img.shields.io/badge/Enterprise-Standard-0078D4?style=flat-square) |
+| 📋 **[cloud-migration-playbook](https://github.com/rahulgoyaldevops/cloud-migration-playbook)** | **19-App Enterprise Migration Factory**<br/>6R Rationalization, Cutover Window SOPs, Hypercare Framework | `Assessment` `Cutover` `Hypercare` | ![Active](https://img.shields.io/badge/19_Apps_Delivered-FF6F00?style=flat-square) |
+| 💰 **[azure-finops-governance-toolkit](https://github.com/rahulgoyaldevops/azure-finops-governance-toolkit)** | **FinOps & Policy-as-Code Toolkit**<br/>Automated VMSS Scheduling, Orphaned Disk Cleanup, Tagging Policy | `PowerShell` `Azure Policy` `FinOps` | ![Active](https://img.shields.io/badge/30%25%2B_Savings-00C853?style=flat-square) |
+| 🛡️ **[devsecops-cryptographic-resilience](https://github.com/rahulgoyaldevops/devsecops-cryptographic-resilience)** | **Cryptographic Resilience & Post-Mortem**<br/>Zero-Trust Web-PKI Gates, Entropy Scanners, Kyverno Admission | `Python` `Kyverno` `PKI` `Admission` | ![Active](https://img.shields.io/badge/Zero--Trust-623CE4?style=flat-square) |
+
+---
+
+### 🏛️ Core Architectural Pillars & Competencies
+
+```
+                                  ┌──────────────────────────────────────────────┐
+                                  │   Senior DevOps & Cloud Platform Engineer    │
+                                  │        14+ Years Total IT Background         │
+                                  └──────────────────────┬───────────────────────┘
+                                                         │
+         ┌────────────────────────┬──────────────────────┴───────────────────────┬────────────────────────┐
+         ▼                        ▼                                              ▼                        ▼
+┌──────────────────┐    ┌──────────────────┐                           ┌──────────────────┐    ┌──────────────────┐
+│  Cloud Platforms │    │   IaC & GitOps   │                           │    DevSecOps     │    │ FinOps & BCDR    │
+│  & Landing Zones │    │    Automation    │                           │    Zero-Trust    │    │ Operational SLA  │
+└────────┬─────────┘    └────────┬─────────┘                           └────────┬─────────┘    └────────┬─────────┘
+         │                       │                                              │                       │
+         ├─ Azure CAF Structure  ├─ Terraform Modules (DRY)                     ├─ Passwordless OIDC    ├─ 30%+ Spend Reduction
+         ├─ Hub & Spoke / NVA    ├─ State Locking & Infracost                   ├─ Checkov / Gitleaks   ├─ Tag Policy as Code
+         ├─ ExpressRoute / VPN   ├─ ArgoCD GitOps (App of Apps)                 ├─ CIS Benchmark 4096   ├─ Multi-Zone VMSS / AKS
+         └─ Private Link & DNS   └─ Automated Drift Remediation                 └─ Kyverno Webhooks     └─ RTO / RPO Disaster Rec
+```
+
+<br/>
+
+* **☁️ Cloud Foundations & Landing Zones:** Multi-tier Management Groups (*Platform, Corp, Online, Sandboxes*), Hub-and-Spoke transit routing with central Azure Firewall, UDR `0.0.0.0/0` forced tunneling, and enterprise Private Endpoints.
+* **⚡ Infrastructure as Code & GitOps:** Modular, reusable Terraform architecture with state locking, variable-driven environment promotion (`dev`, `uat`, `prod`), Infracost shift-left budgeting, and ArgoCD Kubernetes sync.
+* **🔄 Cloud Migration Factory (19 Enterprise Workloads):** Full lifecycle delivery using the 6R rationalization framework (*Rehost, Replatform, Refactor, Repurchase, Retire, Retain*), network latency baselines, cutover window runbooks, and hypercare governance.
+* **🔐 Zero-Trust Security & DevSecOps:** Workload Identity Federation (no long-lived secrets), pre-commit security gates (`gitleaks`, `tflint`, `checkov`), PIM/Entra ID RBAC, and admission controllers.
+* **💰 FinOps & High Availability:** Azure Policy-as-Code for tag enforcement, automated deallocation of idle compute, right-sizing storage, and zone-redundant architectures with documented BCDR playbooks.
+
+---
+
+### 🛠️ Technical Arsenal
 
 <div align="center">
 
-| Repository | Focus Area | Technologies |
-| :--- | :--- | :--- |
-| 🏗️ **[tf-monolithic-landing-zone](https://github.com/rahulgoyaldevops/tf-monolithic-landing-zone)** | Modular Enterprise Azure Landing Zone | `Terraform`, `AzureRM`, `Key Vault`, `Infracost` |
-| 🔄 **[terraform-github-actions](https://github.com/rahulgoyaldevops/terraform-github-actions)** | Passwordless Terraform CI/CD with Azure OIDC | `GitHub Actions`, `Azure OIDC`, `DevSecOps` |
-| 🔒 **[azure-devsecops-pipeline-templates](https://github.com/rahulgoyaldevops/azure-devsecops-pipeline-templates)** | Enterprise Azure DevOps Pipeline Library | `Azure DevOps`, `Checkov`, `TFLint`, `Gitleaks` |
-| 📋 **[cloud-migration-playbook](https://github.com/rahulgoyaldevops/cloud-migration-playbook)** | 19 Enterprise App Migration Factory & 6R Framework | `Migration Checklists`, `Cutover`, `Hypercare` |
-| 💰 **[azure-finops-governance-toolkit](https://github.com/rahulgoyaldevops/azure-finops-governance-toolkit)** | Cost Optimization Scripts & Policy as Code | `PowerShell`, `Azure Policy`, `FinOps Toolkit` |
-| ☸️ **[kubernetes-production-aks](https://github.com/rahulgoyaldevops/kubernetes-production-aks)** | Multi-Zone Production AKS Platform | `Kubernetes`, `AKS`, `Calico CNI`, `ArgoCD` |
-| 🛡️ **[devsecops-cryptographic-resilience](https://github.com/rahulgoyaldevops/devsecops-cryptographic-resilience)** | Zero-Trust Cryptographic Resilience Framework & Incident Post-Mortem | `Python`, `Cryptography`, `Kubernetes`, `DevSecOps` |
+| Domain | Technologies & Tooling |
+| :--- | :--- |
+| **Cloud Platforms & Operating Systems** | ![Azure](https://img.shields.io/badge/Microsoft_Azure-0078D4?style=flat-square&logo=microsoftazure&logoColor=white) ![Linux](https://img.shields.io/badge/Linux-21262D?style=flat-square&logo=linux&logoColor=white) ![RHEL](https://img.shields.io/badge/Red_Hat-EE0000?style=flat-square&logo=redhat&logoColor=white) ![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=flat-square&logo=ubuntu&logoColor=white) |
+| **Infrastructure as Code & Automation** | ![Terraform](https://img.shields.io/badge/Terraform-623CE4?style=flat-square&logo=terraform&logoColor=white) ![Ansible](https://img.shields.io/badge/Ansible-EE0000?style=flat-square&logo=ansible&logoColor=white) ![Bicep](https://img.shields.io/badge/Azure_Bicep-0078D4?style=flat-square&logo=microsoftazure&logoColor=white) ![PowerShell](https://img.shields.io/badge/PowerShell-5391FE?style=flat-square&logo=powershell&logoColor=white) ![Bash](https://img.shields.io/badge/Bash-4EAA25?style=flat-square&logo=gnubash&logoColor=white) ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) |
+| **Containers & Orchestration** | ![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white) ![Azure AKS](https://img.shields.io/badge/Azure_AKS-0078D4?style=flat-square&logo=microsoftazure&logoColor=white) ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white) ![Helm](https://img.shields.io/badge/Helm-0F1689?style=flat-square&logo=helm&logoColor=white) ![ArgoCD](https://img.shields.io/badge/ArgoCD-EF7B4D?style=flat-square&logo=argo&logoColor=white) |
+| **CI/CD & DevSecOps Security** | ![Azure DevOps](https://img.shields.io/badge/Azure_DevOps-0078D7?style=flat-square&logo=azuredevops&logoColor=white) ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white) ![Checkov](https://img.shields.io/badge/Checkov-FF5722?style=flat-square&logo=bridgecrew&logoColor=white) ![SonarQube](https://img.shields.io/badge/SonarQube-4E9BCD?style=flat-square&logo=sonarqube&logoColor=white) ![TFLint](https://img.shields.io/badge/TFLint-0078D4?style=flat-square) ![Gitleaks](https://img.shields.io/badge/Gitleaks-000000?style=flat-square) |
+| **Observability, Governance & FinOps** | ![Azure Monitor](https://img.shields.io/badge/Azure_Monitor-0078D4?style=flat-square&logo=microsoftazure&logoColor=white) ![Grafana](https://img.shields.io/badge/Grafana-F46800?style=flat-square&logo=grafana&logoColor=white) ![Prometheus](https://img.shields.io/badge/Prometheus-E6522C?style=flat-square&logo=prometheus&logoColor=white) ![Azure Policy](https://img.shields.io/badge/Azure_Policy-0078D4?style=flat-square&logo=microsoftazure&logoColor=white) ![FinOps](https://img.shields.io/badge/FinOps-Practices-00C853?style=flat-square) |
 
 </div>
 
 ---
 
-## 🛠️ Technical Arsenal
-
 <div align="center">
 
-**Cloud Platforms & OS**<br/>
-![Azure](https://img.shields.io/badge/Microsoft_Azure-0078D4?style=flat-square&logo=microsoftazure&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
-![RHEL](https://img.shields.io/badge/Red_Hat_Enterprise_Linux-EE0000?style=flat-square&logo=redhat&logoColor=white)
-![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=flat-square&logo=ubuntu&logoColor=white)
+### 🤝 Let's Connect & Collaborate
 
-**Infrastructure as Code & Automation**<br/>
-![Terraform](https://img.shields.io/badge/Terraform-623CE4?style=flat-square&logo=terraform&logoColor=white)
-![Ansible](https://img.shields.io/badge/Ansible-EE0000?style=flat-square&logo=ansible&logoColor=white)
-![Bicep](https://img.shields.io/badge/Bicep-0078D4?style=flat-square&logo=microsoftazure&logoColor=white)
-![PowerShell](https://img.shields.io/badge/PowerShell-5391FE?style=flat-square&logo=powershell&logoColor=white)
-![Bash](https://img.shields.io/badge/Bash-4EAA25?style=flat-square&logo=gnubash&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+<p align="center">
+  <a href="https://www.linkedin.com/in/rahulgoyaldevops/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect_on_LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  &nbsp;&nbsp;
+  <a href="https://github.com/rahulgoyaldevops?tab=repositories" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-Explore_Repositories-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+  </a>
+  &nbsp;&nbsp;
+  <a href="https://medium.com/@rahulgec04" target="_blank">
+    <img src="https://img.shields.io/badge/Medium-Read_Articles-12100E?style=for-the-badge&logo=medium&logoColor=white" alt="Medium" />
+  </a>
+  &nbsp;&nbsp;
+  <a href="mailto:rahulgoyal.devops@gmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/Email-Direct_Inquiry-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+  </a>
+</p>
 
-**Containers & Orchestration**<br/>
-![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white)
-![AKS](https://img.shields.io/badge/Azure_AKS-0078D4?style=flat-square&logo=microsoftazure&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
-![Helm](https://img.shields.io/badge/Helm-0F1689?style=flat-square&logo=helm&logoColor=white)
-
-**CI/CD & Security**<br/>
-![Azure DevOps](https://img.shields.io/badge/Azure_DevOps-0078D7?style=flat-square&logo=azuredevops&logoColor=white)
-![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white)
-![ArgoCD](https://img.shields.io/badge/ArgoCD-EF7B4D?style=flat-square&logo=argo&logoColor=white)
-![Checkov](https://img.shields.io/badge/Checkov-Security-FF5722?style=flat-square)
-![SonarQube](https://img.shields.io/badge/SonarQube-4E9BCD?style=flat-square&logo=sonarqube&logoColor=white)
-
-**Observability & FinOps**<br/>
-![Azure Monitor](https://img.shields.io/badge/Azure_Monitor-0078D4?style=flat-square&logo=microsoftazure&logoColor=white)
-![Grafana](https://img.shields.io/badge/Grafana-F46800?style=flat-square&logo=grafana&logoColor=white)
-![Prometheus](https://img.shields.io/badge/Prometheus-E6522C?style=flat-square&logo=prometheus&logoColor=white)
-![FinOps](https://img.shields.io/badge/FinOps-Certified_Practices-00C853?style=flat-square)
-
-</div>
-
----
-
-## 📈 Engineering Activity & Metrics
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=rahulgoyaldevops&show_icons=true&theme=github_dark&hide_border=true&count_private=true&bg_color=0d1117&title_color=0078d4&icon_color=0078d4&text_color=c9d1d9&hide_rank=true&include_all_commits=true" width="48%" />
-&nbsp;
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=rahulgoyaldevops&theme=github-dark-blue&hide_border=true&background=0d1117&stroke=0078d4&ring=0078d4&fire=ff6f00&currStreakLabel=0078d4" width="48%" />
+<sub>Architecting scalable, resilient, and cost-efficient enterprise cloud infrastructure.</sub>
 
 <br/><br/>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rahulgoyaldevops&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=0078d4&text_color=c9d1d9" width="55%" />
-
-</div>
-
----
-
-<div align="center">
-
-### 🤝 Let's Connect
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rahulgoyaldevops/)
-&nbsp;
-[![GitHub Projects](https://img.shields.io/badge/GitHub-Projects_&_Code-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/rahulgoyaldevops?tab=repositories)
-&nbsp;
-[![Medium](https://img.shields.io/badge/Medium-Technical_Articles-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@rahulgec04)
-&nbsp;
-[![Email](https://img.shields.io/badge/Email-Direct_Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:rahulgoyal.devops@gmail.com)
-
-<br/><br/>
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0078d4,35:005a9e,70:102a45,100:090d16&height=120&section=footer" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=soft&color=0:0078d4,40:005a9e,75:0f2440,100:0b0f19&height=80&section=footer" width="100%" alt="Footer" />
 
 </div>
