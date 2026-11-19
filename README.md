@@ -1,14 +1,14 @@
 <div align="center">
 
 <!-- HERO HEADER BANNER -->
-<img src="https://capsule-render.vercel.app/api?type=soft&color=0:0b0f19,40:0f2440,75:005a9e,100:0078d4&height=190&section=header&text=Rahul%20Goyal&fontSize=44&fontColor=ffffff&animation=fadeIn&fontAlignY=36&desc=Senior%20DevOps%20Engineer%20%7C%2014%2B%20Years%20IT%20(6.5%2B%20Years%20Cloud%20and%20DevOps)&descSize=15&descAlignY=58&descAlign=50" width="100%" alt="Rahul Goyal Header" />
+<img src="https://capsule-render.vercel.app/api?type=soft&color=0:0b0f19,40:0f2440,75:005a9e,100:0078d4&height=190&section=header&text=Rahul%20Goyal&fontSize=44&fontColor=ffffff&animation=fadeIn&fontAlignY=36&desc=Lead%20%2F%20Staff%20Cloud%20%26%20DevOps%20Engineer%20%7C%2014%2B%20Years%20IT%20(6.5%2B%20Years%20Cloud%20and%20DevOps)&descSize=15&descAlignY=58&descAlign=50" width="100%" alt="Rahul Goyal Header" />
 
 <br/>
 
 <!-- DYNAMIC TYPING HEADLINE -->
 <p align="center">
   <a href="https://github.com/rahulgoyaldevops">
-    <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=600&size=20&duration=3000&pause=1400&color=0078D4&center=true&vCenter=true&repeat=true&width=780&height=40&lines=Senior+DevOps+Engineer+%7C+14%2B+Yrs+Enterprise+IT+%E2%80%A2+6.5%2B+Yrs+Cloud+%26+DevOps;Multi-Subscription+Azure+Platform+%7C+Terraform+Landing+Zones;Enterprise+Cloud+Migration+Factory+%7C+19+Core+Workloads;Production-Grade+AKS+Platform+%7C+GitOps+(ArgoCD)+%7C+Calico;Zero-Trust+DevSecOps+Pipelines+%7C+Passwordless+Azure+OIDC;FinOps+Cloud+Governance+%7C+30%25%2B+Optimized+Resource+Spend" alt="Typing Headline" />
+    <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=600&size=20&duration=3000&pause=1400&color=0078D4&center=true&vCenter=true&repeat=true&width=780&height=40&lines=Lead+%2F+Staff+Cloud+%26+DevOps+Engineer+%7C+14%2B+Yrs+Enterprise+IT+%E2%80%A2+6.5%2B+Yrs+Cloud+%26+DevOps;Multi-Subscription+Azure+Platform+%7C+Terraform+Landing+Zones;Enterprise+Cloud+Migration+Factory+%7C+19+Core+Workloads;Production-Grade+AKS+Platform+%7C+GitOps+(ArgoCD)+%7C+Calico;Zero-Trust+DevSecOps+Pipelines+%7C+Passwordless+Azure+OIDC;FinOps+Cloud+Governance+%7C+30%25%2B+Optimized+Resource+Spend" alt="Typing Headline" />
   </a>
 </p>
 
@@ -67,7 +67,7 @@
 
 ### 💼 Executive Profile
 
-Senior DevOps & Cloud Platform Engineer with **14+ years of robust enterprise IT background**, including **6.5+ years of dedicated, hands-on leadership in Microsoft Azure Infrastructure Automation, Kubernetes Platform Engineering, large-scale Cloud Migrations, and DevSecOps**.
+Lead / Staff Cloud & DevOps Engineer with **14+ years of robust enterprise IT background**, including **6.5+ years of dedicated, hands-on leadership in Microsoft Azure Infrastructure Automation, Kubernetes Platform Engineering, large-scale Cloud Migrations, and DevSecOps**.
 
 Combines the operational rigor, deep networking acumen, and disaster-recovery instincts of a 14-year systems veteran with modern cloud-native engineering (*modular Terraform, passwordless Azure OIDC federation, GitOps with ArgoCD, Calico microsegmentation, and FinOps cost governance*).
 
@@ -81,7 +81,7 @@ Combines the operational rigor, deep networking acumen, and disaster-recovery in
 
 | Blueprint / Repository | Domain & Architecture | Core Stack | Status |
 | :--- | :--- | :--- | :---: |
-| 🏗️ **[tf-monolithic-landing-zone](https://github.com/rahulgoyaldevops/tf-monolithic-landing-zone)** | **Enterprise Azure Landing Zone**<br/>CAF Management Groups, Hub-Spoke, UDR, NSGs, Key Vault | `Terraform` `Azure CAF` `Infracost` | ![Active](https://img.shields.io/badge/Production-Ready-0078D4?style=flat-square) |
+| 🏗️ **[azure-caf-landing-zone-terraform](https://github.com/rahulgoyaldevops/azure-caf-landing-zone-terraform)** | **Enterprise Azure Landing Zone**<br/>CAF Management Groups, Hub-Spoke, UDR, NSGs, Key Vault | `Terraform` `Azure CAF` `Infracost` | ![Active](https://img.shields.io/badge/Production-Ready-0078D4?style=flat-square) |
 | 🔄 **[terraform-github-actions](https://github.com/rahulgoyaldevops/terraform-github-actions)** | **Passwordless Azure CI/CD Pipeline**<br/>GitHub Actions, OIDC Workload Identity, Drift Detection | `GitHub Actions` `OIDC` `DevSecOps` | ![Active](https://img.shields.io/badge/Battle--Tested-238636?style=flat-square) |
 | ☸️ **[kubernetes-production-aks](https://github.com/rahulgoyaldevops/kubernetes-production-aks)** | **Production-Grade AKS Platform**<br/>Multi-Zone AKS, Calico CNI, GitOps, Workload Identity | `Kubernetes` `AKS` `ArgoCD` `Calico` | ![Active](https://img.shields.io/badge/Production-Ready-0078D4?style=flat-square) |
 | 🔒 **[azure-devsecops-pipeline-templates](https://github.com/rahulgoyaldevops/azure-devsecops-pipeline-templates)** | **Enterprise DevSecOps Pipeline Library**<br/>Shift-Left Security Gates, Checkov, TFLint, Gitleaks, Rollback | `Azure DevOps` `Checkov` `Gitleaks` | ![Active](https://img.shields.io/badge/Enterprise-Standard-0078D4?style=flat-square) |
@@ -95,7 +95,7 @@ Combines the operational rigor, deep networking acumen, and disaster-recovery in
 
 ```
                                   ┌──────────────────────────────────────────────┐
-                                  │   Senior DevOps & Cloud Platform Engineer    │
+                                  │   Lead / Staff Cloud & DevOps Engineer    │
                                   │        14+ Years Total IT Background         │
                                   └──────────────────────┬───────────────────────┘
                                                          │
