@@ -1,9 +1,5 @@
 <div align="center">
 
-<!-- HERO HEADER BANNER -->
-<img src="https://capsule-render.vercel.app/api?type=soft&color=0:0b0f19,40:0f2440,75:005a9e,100:0078d4&height=190&section=header&text=Rahul%20Goyal&fontSize=44&fontColor=ffffff&animation=fadeIn&fontAlignY=36&desc=Lead%20%2F%20Staff%20Cloud%20%26%20DevOps%20Engineer%20%7C%2014%2B%20Years%20IT%20(6.5%2B%20Years%20Cloud%20and%20DevOps)&descSize=15&descAlignY=58&descAlign=50" width="100%" alt="Rahul Goyal Header" />
-
-<br/>
 
 <!-- DYNAMIC TYPING HEADLINE -->
 <p align="center">
