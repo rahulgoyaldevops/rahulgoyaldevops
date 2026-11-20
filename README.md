@@ -91,36 +91,50 @@ Combines the operational rigor, deep networking acumen, and disaster-recovery in
 ### 🏛️ Core Architectural Pillars & Competencies
 
 ```mermaid
-flowchart LR
-subgraph OnPrem["On-Premises & Hybrid Connectivity"]
-OP["On-Premises Datacenter<br/>ExpressRoute / BGP"]
-end
-subgraph CAF["Azure CAF & Hub-Spoke Networking"]
-MG["Management Groups<br/>Platform | Corp | Online | Sandbox"]
-HUB["Hub VNet<br/>Azure Firewall | UDR 0.0.0.0/0 | DNS"]
-end
-subgraph PaaS["Private Endpoints & Azure PaaS"]
-PE["Private Link & Private Endpoints"]
-PG["PostgreSQL Flexible Server"]
-KV["Azure Key Vault"]
-ACR["Azure Container Registry"]
-PE --> PG
-PE --> KV
-PE --> ACR
-end
-subgraph AKSGov["AKS Polyglot Microservices, DevSecOps & FinOps"]
-AKS["AKS Cluster<br/>.NET 8 & Python FastAPI"]
-SEC["DevSecOps Gates<br/>SAST | DAST | SCA | SBOM | Cosign | Kyverno"]
-FIN["FinOps & SRE Governance<br/>Infracost | Auto-Rollback | RTO/RPO"]
-AKS --- SEC
-AKS --- FIN
-end
-OP -->|"ExpressRoute"| HUB
-MG -->|"Policy & RBAC"| HUB
-HUB -->|"VNet Peering"| PE
-HUB -->|"Private Egress"| AKS
-AKS -->|"Private Link"| PE
+%%{init: {'theme': 'base', 'flowchart': {'curve': 'basis', 'nodeSpacing': 40, 'rankSpacing': 50}}}%%
+flowchart TB
+  subgraph T1["Tier 1: Hybrid Edge"]
+    direction LR
+    OP["On-Premises Datacenter"] --> ER["ExpressRoute / BGP"] --> ID["Entra ID Zero-Trust"]
+  end
+
+  subgraph T2["Tier 2: Azure CAF Hub"]
+    direction LR
+    MG["Management Groups"] --> HUB["Hub VNet & Azure Firewall<br/>(UDR 0.0.0.0/0)"] --> DNS["Private DNS Resolver"]
+  end
+
+  subgraph T3["Tier 3: Spoke Workloads & PaaS"]
+    direction LR
+    AKS["AKS Polyglot Microservices<br/>(.NET 8 & Python FastAPI)"] --> PE["Private Link Endpoints"] --> PAAS["Azure PostgreSQL PaaS,<br/>Key Vault & ACR"]
+  end
+
+  subgraph T4["Tier 4: DevSecOps & FinOps Control Plane"]
+    direction LR
+    CI["GitHub Actions OIDC CI/CD<br/>(SAST/DAST/SCA/SBOM/Cosign)"] --> KYV["Kyverno Admission"] --> FIN["Infracost & 30%+ FinOps Automation"]
+  end
+
+  T1 -->|"Hybrid Connectivity"| T2
+  T2 -->|"VNet Peering & Inspection"| T3
+  T4 -->|"Policy, Security & Cost Governance"| T3
+
+  classDef cobalt fill:#1D4ED8,stroke:#1E40AF,color:#FFFFFF,stroke-width:1.5px
+  classDef slate fill:#0F172A,stroke:#334155,color:#FFFFFF,stroke-width:1.5px
+  classDef emerald fill:#047857,stroke:#065F46,color:#FFFFFF,stroke-width:1.5px
+  classDef teal fill:#0E7490,stroke:#155E75,color:#FFFFFF,stroke-width:1.5px
+  classDef amber fill:#B45309,stroke:#92400E,color:#FFFFFF,stroke-width:1.5px
+
+  class OP,ID slate
+  class ER,HUB,DNS cobalt
+  class MG,AKS teal
+  class PE,PAAS emerald
+  class CI,KYV,FIN amber
+
+  style T1 fill:transparent,stroke:#64748B,stroke-width:1.5px,color:#64748B
+  style T2 fill:transparent,stroke:#64748B,stroke-width:1.5px,color:#64748B
+  style T3 fill:transparent,stroke:#64748B,stroke-width:1.5px,color:#64748B
+  style T4 fill:transparent,stroke:#64748B,stroke-width:1.5px,color:#64748B
 ```
+
 
 
 <br/>
