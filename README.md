@@ -113,10 +113,10 @@ flowchart TB
     CI["GitHub Actions OIDC CI/CD<br/>(SAST/DAST/SCA/SBOM/Cosign)"] --> KYV["Kyverno Admission"] --> FIN["Infracost & 30%+ FinOps Automation"]
   end
 
-  T1 -->|"Hybrid Connectivity"| T2
-  T2 -->|"VNet Peering & Inspection"| T3
-  T4 -->|"Policy, Security & Cost Governance"| T3
-
+  T1 --> T2
+  T2 --> T3
+  T3 --> T4
+  linkStyle default stroke:#64748B,stroke-width:1.5px
   classDef cobalt fill:#1D4ED8,stroke:#1E40AF,color:#FFFFFF,stroke-width:1.5px
   classDef slate fill:#0F172A,stroke:#334155,color:#FFFFFF,stroke-width:1.5px
   classDef emerald fill:#047857,stroke:#065F46,color:#FFFFFF,stroke-width:1.5px
