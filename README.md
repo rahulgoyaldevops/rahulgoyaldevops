@@ -77,6 +77,7 @@ Combines the operational rigor, deep networking acumen, and disaster-recovery in
 
 | Blueprint / Repository | Domain & Architecture | Core Stack | Status |
 | :--- | :--- | :--- | :---: |
+| **[aks-microservices-devsecops-platform](https://github.com/rahulgoyaldevops/aks-microservices-devsecops-platform)** | **Polyglot AKS Microservices DevSecOps Platform**<br>.NET 8 + Python FastAPI + Azure PaaS + SAST/DAST/SCA/SBOM/Cosign/Infracost/Auto-Rollback | `.NET 8` `FastAPI` `AKS` `Azure PaaS` `Cosign` `Infracost` | [![CI](https://github.com/rahulgoyaldevops/aks-microservices-devsecops-platform/actions/workflows/ci-microservices.yml/badge.svg)](https://github.com/rahulgoyaldevops/aks-microservices-devsecops-platform/actions/workflows/ci-microservices.yml) |
 | 🏗️ **[azure-caf-landing-zone-terraform](https://github.com/rahulgoyaldevops/azure-caf-landing-zone-terraform)** | **Enterprise Azure Landing Zone**<br/>CAF Management Groups, Hub-Spoke, UDR, NSGs, Key Vault | `Terraform` `Azure CAF` `Infracost` | ![Active](https://img.shields.io/badge/Production-Ready-0078D4?style=flat-square) |
 | 🔄 **[terraform-github-actions](https://github.com/rahulgoyaldevops/terraform-github-actions)** | **Passwordless Azure CI/CD Pipeline**<br/>GitHub Actions, OIDC Workload Identity, Drift Detection | `GitHub Actions` `OIDC` `DevSecOps` | ![Active](https://img.shields.io/badge/Battle--Tested-238636?style=flat-square) |
 | ☸️ **[kubernetes-production-aks](https://github.com/rahulgoyaldevops/kubernetes-production-aks)** | **Production-Grade AKS Platform**<br/>Multi-Zone AKS, Calico CNI, GitOps, Workload Identity | `Kubernetes` `AKS` `ArgoCD` `Calico` | ![Active](https://img.shields.io/badge/Production-Ready-0078D4?style=flat-square) |
@@ -89,24 +90,38 @@ Combines the operational rigor, deep networking acumen, and disaster-recovery in
 
 ### 🏛️ Core Architectural Pillars & Competencies
 
+```mermaid
+flowchart LR
+subgraph OnPrem["On-Premises & Hybrid Connectivity"]
+OP["On-Premises Datacenter<br/>ExpressRoute / BGP"]
+end
+subgraph CAF["Azure CAF & Hub-Spoke Networking"]
+MG["Management Groups<br/>Platform | Corp | Online | Sandbox"]
+HUB["Hub VNet<br/>Azure Firewall | UDR 0.0.0.0/0 | DNS"]
+end
+subgraph PaaS["Private Endpoints & Azure PaaS"]
+PE["Private Link & Private Endpoints"]
+PG["PostgreSQL Flexible Server"]
+KV["Azure Key Vault"]
+ACR["Azure Container Registry"]
+PE --> PG
+PE --> KV
+PE --> ACR
+end
+subgraph AKSGov["AKS Polyglot Microservices, DevSecOps & FinOps"]
+AKS["AKS Cluster<br/>.NET 8 & Python FastAPI"]
+SEC["DevSecOps Gates<br/>SAST | DAST | SCA | SBOM | Cosign | Kyverno"]
+FIN["FinOps & SRE Governance<br/>Infracost | Auto-Rollback | RTO/RPO"]
+AKS --- SEC
+AKS --- FIN
+end
+OP -->|"ExpressRoute"| HUB
+MG -->|"Policy & RBAC"| HUB
+HUB -->|"VNet Peering"| PE
+HUB -->|"Private Egress"| AKS
+AKS -->|"Private Link"| PE
 ```
-                                  ┌──────────────────────────────────────────────┐
-                                  │   Lead / Staff Cloud & DevOps Engineer    │
-                                  │        14+ Years Total IT Background         │
-                                  └──────────────────────┬───────────────────────┘
-                                                         │
-         ┌────────────────────────┬──────────────────────┴───────────────────────┬────────────────────────┐
-         ▼                        ▼                                              ▼                        ▼
-┌──────────────────┐    ┌──────────────────┐                           ┌──────────────────┐    ┌──────────────────┐
-│  Cloud Platforms │    │   IaC & GitOps   │                           │    DevSecOps     │    │ FinOps & BCDR    │
-│  & Landing Zones │    │    Automation    │                           │    Zero-Trust    │    │ Operational SLA  │
-└────────┬─────────┘    └────────┬─────────┘                           └────────┬─────────┘    └────────┬─────────┘
-         │                       │                                              │                       │
-         ├─ Azure CAF Structure  ├─ Terraform Modules (DRY)                     ├─ Passwordless OIDC    ├─ 30%+ Spend Reduction
-         ├─ Hub & Spoke / NVA    ├─ State Locking & Infracost                   ├─ Checkov / Gitleaks   ├─ Tag Policy as Code
-         ├─ ExpressRoute / VPN   ├─ ArgoCD GitOps (App of Apps)                 ├─ CIS Benchmark 4096   ├─ Multi-Zone VMSS / AKS
-         └─ Private Link & DNS   └─ Automated Drift Remediation                 └─ Kyverno Webhooks     └─ RTO / RPO Disaster Rec
-```
+
 
 <br/>
 
@@ -116,7 +131,16 @@ Combines the operational rigor, deep networking acumen, and disaster-recovery in
 * **🔐 Zero-Trust Security & DevSecOps:** Workload Identity Federation (no long-lived secrets), pre-commit security gates (`gitleaks`, `tflint`, `checkov`), PIM/Entra ID RBAC, and admission controllers.
 * **💰 FinOps & High Availability:** Azure Policy-as-Code for tag enforcement, automated deallocation of idle compute, right-sizing storage, and zone-redundant architectures with documented BCDR playbooks.
 
+
+### 🧭 Platform Leadership & Delivery Governance
+
+* **Architecture Review Board (ARB) & ADRs:** Chair technical design reviews and maintain versioned Architecture Decision Records (ADRs) to standardize cloud landing zones, networking topology, and polyglot service patterns.
+* **Zero-Trust DevSecOps & FinOps Governance:** Enforce shift-left security gates (SAST, DAST, SCA, SBOM, Cosign, Kyverno) and automated Infracost / Azure Policy-as-Code budget guardrails across every CI/CD pipeline.
+* **Multi-Team Platform Enablement:** Build self-service golden paths, reusable Terraform/Helm modules, and automated rollback workflows that accelerate product squad onboarding while maintaining compliance.
+* **Enterprise Migration & Vendor Alignment:** Lead cross-functional cutover governance, 6R workload rationalization, and executive alignment across cloud engineering, security, and third-party delivery vendors.
+
 ---
+
 
 ### 🛠️ Technical Arsenal
 
