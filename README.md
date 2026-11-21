@@ -4,7 +4,7 @@
 <!-- DYNAMIC TYPING HEADLINE -->
 <p align="center">
   <a href="https://github.com/rahulgoyaldevops">
-    <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=600&size=20&duration=3000&pause=1400&color=0078D4&center=true&vCenter=true&repeat=true&width=780&height=40&lines=Senior+%2F+Lead+DevSecOps+Engineer+%7C+14%2B+Yrs+Enterprise+IT+%E2%80%A2+6.5%2B+Yrs+Cloud+%26+DevOps;Multi-Subscription+Azure+Platform+%7C+Terraform+Landing+Zones;Enterprise+Cloud+Migration+Factory+%7C+19+Core+Workloads;Production-Grade+AKS+Platform+%7C+GitOps+(ArgoCD)+%7C+Calico;Zero-Trust+DevSecOps+Pipelines+%7C+Passwordless+Azure+OIDC;FinOps+Cloud+Governance+%7C+30%25%2B+Optimized+Resource+Spend" alt="Typing Headline" />
+    <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=600&size=22&duration=3000&pause=1400&color=0078D4&center=true&vCenter=true&repeat=true&width=1000&height=40&lines=Senior+%2F+Lead+DevSecOps+Engineer+%7C+14%2B+Yrs+Enterprise+IT+%E2%80%A2+6.5%2B+Yrs+Cloud+%26+DevOps;Multi-Subscription+Azure+Platform+%7C+Terraform+Landing+Zones;Enterprise+Cloud+Migration+Factory+%7C+19+Core+Workloads;Production-Grade+AKS+Platform+%7C+GitOps+(ArgoCD)+%7C+Calico;Zero-Trust+DevSecOps+Pipelines+%7C+Passwordless+Azure+OIDC;FinOps+Cloud+Governance+%7C+30%25%2B+Optimized+Resource+Spend" alt="Typing Headline" />
   </a>
 </p>
 
